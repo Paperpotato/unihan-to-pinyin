@@ -18,3 +18,6 @@ copy of this repo.
 It's as simple as loading your JSON file into memory and doing substitutions for each word.
 
 An example that reads input from stdin and outputs into stdout is located at `hanzi_to_pinyin.py`.
+
+## RSH
+The 'hanzi_to_pinyin.py' file has been modified to update the English field of the RSH.txt field to include the Jyutping translation of each character. The 'RSH+jyutping.txt' file can be loaded into Anki to create flashcards for those wanting to learn Cantonese. 
