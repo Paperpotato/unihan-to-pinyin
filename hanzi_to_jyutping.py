@@ -7,7 +7,7 @@ data_file = 'hanzi_to_jyutping.json'
 file_handler = open(data_file, 'r')
 mappings = json.load(file_handler)
 
-input_file = 'RSH.txt'
+input_file = 'Business Chinese.txt'
 input_file_handler = open(input_file, 'r')
 input_raw = input_file_handler.read().split('\n')
 

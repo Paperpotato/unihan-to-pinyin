@@ -1,0 +1,696 @@
+1	大家	dàjiā	everyone, all	pronoun: daai2 gaa1 gu1	2	1	
+2	李琳	lǐ lín	name of a person Li Lin	proper noun: lei5 lam4 	2	1	
+3	麦克	màikè	Mike	proper noun: haak1 hak1	2	1	
+4	们	men	(suffix for plurality)	: mun4 	2	1	
+5	你	nǐ	you (singular)	pronoun: nei5 	2	1	
+6	您	nín	you (a polite form)	pronoun: nei5 	2	1	
+7	噢	ō	oh (sudden realization)	interjection: juk1 jyu2 o1 ou3	2	1	
+8	总	zǒng	general, always	noun: zung2 	2	1	
+9	啊	a	ah	interjection: aa1 aa2 aa3 aa4	3	1	
+10	帮	bāng	to help	verb: bong1 	3	1	
+11	不	bù 1	not, no	adverb: bat1 fau2	3	1	
+12	客气	kèqì	polite	adjective: haak3 hei3 	3	1	
+13	忙	máng	busy	noun: mong4 	3	1	
+14	谢谢	xièxiè	to thank, thanks	verb: ze6 ze6 	3	1	
+15	一	yī	a, one	number: jat1 	3	1	
+16	用	yòng	need, to use	verb: jung6 	3	1	
+17	来	lái	to come	verb: loi4 	4	1	
+18	刘力	liú lì	name of a person Liu Li	proper noun: lau4 lik6 	4	1	
+19	是	shì 1	be, is, are, was, were	verb: si6 	4	1	
+20	我	wǒ	I, me	pronoun: ngo5 	4	1	
+21	小姐	xiǎojiě	miss	noun: siu2 ze2 	4	1	
+22	新	xīn	new	adjective: san1 	4	1	
+23	新来的	xīn lái de	new comer	: di1 dik1	4	1	
+24	助理	zhùlǐ	assistant	noun: zo6 lei5 	4	1	
+25	北京	běijīng	Beijing	proper noun: baak1 bak1ging1 	5	1	
+26	客户	kèhù	client, customer, user	noun: haak3 wu6 	5	1	
+27	王光	wáng guāng	name of a person Wang Guang	proper noun: wong4 wong6gwong1 	5	1	
+28	也	yě	also, too	adverb: jaa5 	5	1	
+29	在	zài 1	at, in, on	preposition: zoi6 	5	1	
+30	茶	chá 1	tea	noun: caa4 	6	1	
+31	吃	chī	to eat, to take	verb: gat1 hat1 hek3 jaak3	6	1	
+32	请	qǐng	please, to invite, to ask	verb: cing2 	6	1	
+33	糖	táng	sugar, sweets	noun: tong2 tong4	6	1	
+34	这	zhè	this, now	pronoun: ze5 	6	1	
+35	这个	zhège	this, this one	: ze5 go3 	6	1	
+36	坐	zuò 1	to sit	verb: co5 zo6	6	1	
+37	爱人	àirén	wife or husband	noun: ngoi3 oi3jan4 	7	1	
+38	办公室	bàngōngshì	office	noun: baan6 gung1 sat1 	7	1	
+39	部	bù 2	section, department	noun: bou6 	7	1	
+40	老板	lǎobǎn	boss, manager	noun: lou5 baan2 	7	1	
+41	秘书	mìshū	secretary	noun: bei3 bit1syu1 	7	1	
+42	朋友	péngyǒu	friend	noun: pang4 jau5 	7	1	
+43	签字	qiānzì	signature	noun: cim1 zi6 	7	1	
+44	认识	rènshí	to know, to understand, to recognize	verb: jing6 sik1 	7	1	
+45	同事	tóngshì	colleague	noun: tung4 si6 	7	1	
+46	位	wèi 1	(a measure word); person	measure: wai2 wai6	7	1	
+47	我们	wǒmen	we (not necessarily including second party)	pronoun: ngo5 mun4 	7	1	
+48	小	xiǎo	young, little	adjective: siu2 	7	1	
+49	小白	xiǎo bái	(first name of a person)	proper noun: siu2 baak6 	7	1	
+50	销售	xiāoshòu	to sell	verb: siu1 sau6 	7	1	
+51	哎	āi	hey!	interjection: aai1 ai3	8	1	
+52	传真	chuánzhēn	fax	noun: cyun4 zan1 	8	1	
+53	可以	kěyǐ	can, able; to have permission to	verb: ji5 jyu5	8	1	
+54	买	mǎi	to buy	verb: maai5 	8	1	
+55	名片	míngpiàn	visiting card	noun: meng4 ming4pin3 	8	1	
+56	印	yìn	to print, to engrave	verb: jan3 ngan3	8	1	
+57	一下	yīxià	for a while	: haa5 haa6	8	1	
+58	总部	zǒngbù	head office, general headquarters	noun: zung2 bou6 	8	1	
+59	抱歉	bàoqiàn	sorry	adjective: him3 hip3	9	1	
+60	不要紧	bùyàojǐn	"It doesn't matter."	phrase: jiu1 jiu3gan2 	9	1	
+61	车	chē	car, bus	noun: ce1 geoi1	9	1	
+62	了	le	user after a verb or verbal phrase to indicate the completion of a real or expected action or a change	auxiliary: liu5 	9	1	
+63	里	lǐ 1	inside, in, surname	noun: lei5 	9	1	
+64	没关系	méiguānxì	never mind	: mut6 gwaan1 hai6 	9	1	
+65	没事儿	méishì er	not serious, never mind	: mut6 si6 jan4 	9	1	
+66	呢	ne	(a final interrogative particle); woolen cloth	particle: ne1 nei1 nei4 ni1	9	1	
+67	晚	wǎn	late	adjective: maan5 	9	1	
+68	真	zhēn	really, awfully	adverb: zan1 	9	1	
+69	资料	zīliào	material, resources, information	noun: liu2 liu6	9	1	
+70	吧	ba	(a modal particle)	particle: baa1 baa6	10	1	
+71	抽烟	chōuyān	to smoke	verb: cau1 jin1 	10	1	
+72	吗	ma 1	(a final interrogative particle); to curse, to insult	particle: maa3 	10	1	
+73	能	néng	can, to be able to	verb: nang4 	10	1	
+74	软盘	ruǎnpán	software	noun: jyun5 pun4 	10	1	
+75	随便	suíbiàn	as you like, casual	adjective: bin6 pin4	10	1	
+76	提	tí	to propose, to lift, to raise, to mention, to put forward	verb: dai2 tai4	10	1	
+77	行	xíng	O.K., fine	verb: haang4 hang4 hang6 hong4	10	1	
+78	意见	yìjiàn	suggestion, comment, complaint	noun: ji3 gin3 	10	1	
+79	帮忙	bāngmáng	help	verb: bong1 mong4 	11	1	
+80	别	bié	do not	adverb: bit6 	11	1	
+81	奶	nǎi	milk	noun: naai1 naai5	11	1	
+82	需要	xūyào	to need	verb: jiu1 jiu3	11	1	
+83	要	yào 1	to want, to need, to be going to	verb: jiu1 jiu3	11	1	
+84	来	lái	to let, to come, to arrive	verb: loi4 	12	1	
+85	上	shàng	to go up, above, before	verb: soeng5 soeng6	12	1	
+86	下	xià	to go down, next	verb: haa5 haa6	12	1	
+87	先	xiān	first	adverb: sin1 	12	1	
+88	自己	zìjǐ	oneself	pronoun: zi6 gei2 	12	1	
+89	走	zǒu	to go, to walk	verb: zau2 	12	1	
+90	棒	bàng	good	adjective: paang5 	13	1	
+91	不错	bùcuò	not bad	adjective: bat1 fau2co3 	13	1	
+92	美	měi 1	beautiful; America (abbreviation)	adjective: mei5 	13	1	
+93	能干	nénggàn	capable	adjective: nang4 gon1 	13	1	
+94	请客	qǐngkè	to stand treat	: cing2 haak3 	13	1	
+95	声音	shēngyīn	sounds	noun: seng1 sing1jam1 	13	1	
+96	喜欢	xǐhuān	to like	verb: hei2 fun1 	13	1	
+97	行	xíng	fine, to walk, to go, to travel, to visit	adjective: haang4 hang4 hang6 hong4	13	1	
+98	想	xiǎng	to miss	verb: soeng2 	14	1	
+99	希望	xīwàng	to hope	verb: hei1 mong6 	14	1	
+100	要	yào 1	to be going to, to want, to need	verb: jiu1 jiu3	14	1	
+101	再	zài 2	again (future)	adverb: zoi3 	14	1	
+102	再见	zàijiàn	good-bye	verb: zoi3 gin3 	14	1	
+103	早日	zǎorì	soon	adverb: zou2 jat6 	14	1	
+104	保重	bǎozhòng	to take care on oneself	verb: cung4 cung5 zung6	15	1	
+105	留步	liúbù	"don't bother to come any further"	verb: lau4 bou6 	15	1	
+106	旅途	lǚtú	trip	noun: leoi5 tou4 	15	1	
+107	哪里	nǎlǐ	not at all, where	pronoun: naa1 naa4 naa5lei5 	15	1	
+108	平安	"píng'ān"	safe	adjective: ngon1 on1	15	1	
+109	顺风	shùnfēng	to have a favourable wind	verb: seon6 fung1 	15	1	
+110	送	sòng	to see off	verb: sung3 	15	1	
+111	太	tài	too	adverb: taai3 	15	1	
+112	一路	yīlù	all the way	noun: jat1 lou6 	15	1	
+113	愉快	yúkuài	pleasant	adjective: jyu4 jyu6faai3 	15	1	
+114	照顾	zhàogù	to take care of, to show consideration for, to look after	verb: ziu3 gu3 	15	1	
+115	祝	zhù	to wish	verb: zuk1 	15	1	
+116	报告	bàogào	report	noun: gou3 guk1	16	1	
+117	打扰	dǎrǎo	to disturb, to bother	verb: jiu2 jiu5	16	1	
+118	麻烦	máfan	to trouble	verb: maa4 faan4 	16	1	
+119	拿	ná	to take, to hold, to seize	verb: naa4 	16	1	
+120	什么	shénme	what	pronoun: jiu1 mo1	16	1	
+121	事	shì 2	thing, matter, job, responsibility	noun: si6 	16	1	
+122	一定	yī dìng	surely	adverb: deng6 ding6	16	1	
+123	马马虎虎	mǎmǎhǔhǔ	just so so	adjective: maa5 maa5 fu2 fu2 	17	1	
+124	忙	máng	busy, help, to hurry	adjective: mong4 	17	1	
+125	去	qù	to go	verb: heoi2 heoi3	17	1	
+126	生意	shēngyì	business	noun: saang1 sang1ji3 	17	1	
+127	身体	shēntǐ	body	noun: ban6 tai2	17	1	
+128	天气	tiānqì	weather	noun: tin1 hei3 	17	1	
+129	下	xià	next, below	noun: haa5 haa6	17	1	
+130	星期	xīngqí	week, day of the week	noun: gei1 kei4	17	1	
+131	怎么样	zěnme yàng	in what manner (how)	pronoun: jiu1 mo1joeng6 	17	1	
+132	中国	zhōngguó	China	proper noun: zung1 zung3gwok3 	17	1	
+133	最近	zuìjìn	recent	noun: gan6 kan5	17	1	
+134	班	bān	shift; class	noun: baan1 	18	1	
+135	担心	dānxīn	to worry	verb: daam1 sam1 	18	1	
+136	明天	míngtiān	tomorrow	noun: ming4 tin1 	18	1	
+137	拍	pāi	to take (a photo)	verb: paak3 	18	1	
+138	谦虚	qiānxū	modest	adjective: him1 heoi1 	18	1	
+139	生气	shēngqì	to get angry	: saang1 sang1hei3 	18	1	
+140	时候	shíhòu	time (an amount)	noun: si4 hau6 	18	1	
+141	忘	wàng	to forget	verb: mong4 	18	1	
+142	效益	xiàoyì	benefit	noun: haau6 jik1 	18	1	
+143	一直	yīzhí	continuously	adverb: jat1 zik6 	18	1	
+144	着急	zhāojí	to worry about, worried, excited, anxious	verb: zau1 zau2 zoek3 zoek6gap1 	18	1	
+145	照片	zhàopiàn	photo	noun: ziu3 pin3 	18	1	
+146	正	zhèng	in process of	adverb: zeng3 zing1 zing3	18	1	
+147	次	cì	(a measure word); time, occurence	measure: ci3 	19	1	
+148	美好	měi hǎo	bright	adjective: hou2 hou3	19	1	
+149	提议	tíyì	to propose, to suggest; proposal, suggestion	verb: ji5 ji6	19	1	
+150	为	wèi 2	for, to do, to act	preposition: wai4 wai6	19	1	
+151	未来	wèilái	future	noun: mei6 loi4 	19	1	
+152	洗尘	xǐchén	to give a dinner of welcome to a visitor from afar	verb: sai2 can4 	19	1	
+153	一起	yīqǐ	together, with	adverb: jat1 hei2 	19	1	
+154	友谊	yǒuyì	friendship	noun: ji4 ji6	19	1	
+155	半	bàn 1	half	number: bun3 	20	1	
+156	笔	bǐ 1	(a measure word); sum of money, financial account, debt	measure: bat1 	20	1	
+157	成	chéng	to succeed	verb: cing4 seng4 sing4	20	1	
+158	快乐	kuàilè	happy	adjective: lok6 ngok6	20	1	
+159	上海	shànghǎi	Shanghai	proper noun: soeng5 soeng6hoi2 	20	1	
+160	圣诞节	shèngdàn jié	Christmas	proper noun: sing3 daan3 zit3 	20	1	
+161	生日	shēngrì	birthday	noun: saang1 sang1jat6 	20	1	
+162	谈	tán	to chat, to talk	verb: taam4 	20	1	
+163	香港	xiānggǎng	Hongkong	proper noun: hoeng1 gong2 	20	1	
+164	下午	xiàwǔ	afternoon	noun: haa5 haa6ng5 	20	1	
+165	新年	xīnnián	New Year	noun: san1 nin4 	20	1	
+166	这么	zhème	such, so	adverb: jiu1 mo1	20	1	
+167	祝贺	zhùhè	to congratulate	verb: zuk1 ho6 	20	1	
+168	长城	chángchéng	the Great Wall	proper noun: seng4 sing4	1	2	
+169	出去	chūqù	to go out	verb: heoi2 heoi3	1	2	
+170	错	cuò	wrong	adjective: co3 	1	2	
+171	打	dǎ	to dial	verb: daa1 daa2	1	2	
+172	打不通	dǎ bùtōng	unable to get through	: bat1 fau2tung1 	1	2	
+173	点	diǎn	"o'clock, drop, spot, to order (dishes)"	noun: dim2 	1	2	
+174	电话	diànhuà	telephone	noun: waa2 waa6	1	2	
+175	多少	duōshǎo	what (number)	pronoun: siu2 siu3	1	2	
+176	饭店	fàndiàn	hotel	noun: faan6 dim3 	1	2	
+177	房间	fángjiān	room (not house)	noun: fong2 fong4gaan1 	1	2	
+178	飞机	fēijī	aeroplane	noun: fei1 gei1 	1	2	
+179	跟	gēn	with	preposition: gan1 	1	2	
+180	贵友宾馆	guì yǒu bīnguǎn	Guiyou Hotel	proper noun: gwai3 jau5 ban1 gun2 	1	2	
+181	号码	hàomǎ	number	noun: hou6 maa5 	1	2	
+182	急	jí	anxious	adjective: gap1 	1	2	
+183	开	kāi	to open, to start, to turn on, to boil	verb: hoi1 	1	2	
+184	空	kōng	freedom	noun: hung1 hung3	1	2	
+185	联系	liánxì	to contact	verb: lyun4 hai6 	1	2	
+186	没	méi	"not, without, haven't"	adverb: mut6 	1	2	
+187	上午	shàngwǔ	morning (between 8:00 and 12:00)	noun: soeng5 soeng6ng5 	1	2	
+188	手机	shǒujī	mobile phone	noun: sau2 gei1 	1	2	
+189	厅	tīng 1	hall	noun: teng1 	1	2	
+190	喂	wèi 3	hello	interjection: wai2 wai3	1	2	
+191	咱们	zánmen	we (including the first, second, and third parties)	noun: zaa1 mun4 	1	2	
+192	占线	zhànxiàn	engaged (of a telephone line)	: zim1 zim3sin3 	1	2	
+193	找	zhǎo	to look for	verb: zaau2 	1	2	
+194	知道	zhīdào	to know, to realize	verb: dou3 dou6	1	2	
+195	中发宾馆	zhōng fā bīnguǎn	Zhongfa Hotel	proper noun: zung1 zung3faat3 ban1 gun2 	1	2	
+196	转	zhuǎn	to connect (a call)	verb: zyun2 zyun3	1	2	
+197	菜市场	cài shìchǎng	food market	noun: coi3 si5 coeng4 	2	2	
+198	超市	chāoshì	supermarket	noun: ciu1 si5 	2	2	
+199	打车	dǎchē	to take a taxi	verb: ce1 geoi1	2	2	
+200	发票	fāpiào	invoice	noun: biu1 piu3	2	2	
+201	接	jiē	to meet	verb: zip3 	2	2	
+202	酒吧	jiǔ bā	bar	noun: baa1 baa6	2	2	
+203	哪儿	"nǎ'er"	where	pronoun: naa1 naa4 naa5jan4 	2	2	
+204	然后	ránhòu	after	conjunction: jin4 hau6 	2	2	
+205	师傅	shīfù	master	noun: si1 fu6 	2	2	
+206	停	tíng	to stop	verb: ting4 	2	2	
+207	洗手间	xǐshǒujiān	water closet	noun: sai2 sau2 gaan1 	2	2	
+208	秀水街	xiùshuǐ jiē	Xiushui Street	proper noun: sau3 seoi2 gaai1 	2	2	
+209	怎么	zěn me	how	pronoun: jiu1 mo1	2	2	
+210	张	zhāng	surname Zhang	proper noun: zoeng1 	2	2	
+211	这里	zhèlǐ	here	pronoun: ze5 lei5 	2	2	
+212	坐车	zuòchē	to take a bus/car	verb: ce1 geoi1	2	2	
+213	报纸	bàozhǐ	newspaper	noun: bou3 zi2 	3	2	
+214	北	běi	north	noun: baak1 bak1	3	2	
+215	层	céng	floor	measure: cang4 	3	2	
+216	朝	cháo	face	preposition: ciu4 ziu1	3	2	
+217	电器	diànqì	appliance	noun: din6 hei3 	3	2	
+218	电梯	diàntī	elevator	noun: din6 tai1 	3	2	
+219	地下	dìxià	basement	noun: haa5 haa6	3	2	
+220	东	dōng	east	noun: dung1 	3	2	
+221	发	fā	hair, to send out, to issue, to emit, to develop	noun: faat3 	3	2	
+222	份	fèn	copy	measure: ban1 fan6	3	2	
+223	分钟	fēnzhōng	minute (time)	noun: fan1 fan6zung1 	3	2	
+224	拐	guǎi	to turn	verb: gwaai2 	3	2	
+225	后边	hòubian	behind	noun: hau6 bin1 	3	2	
+226	化妆品	huàzhuāngpǐn	cosmetics	noun: faa3 zong1 ban2 	3	2	
+227	几	jǐ	a few, which	number: gei1 gei2	3	2	
+228	京北大厦	jīng běi dàshà	Jingbei Mansion	proper noun: baak1 bak1daai6 haa6 	3	2	
+229	看	kàn	to look at; to see	verb: hon1 hon3	3	2	
+230	劳驾	láojià	Excuse me	verb: lou4 gaa3 	3	2	
+231	楼	lóu	building	noun: lau4 	3	2	
+232	牌子	páizi	brand	noun: paai4 zi2 	3	2	
+233	旁边	pángbiān	side	noun: pong4 bin1 	3	2	
+234	平安路	"píng'ān lù"	"Ping'an Road"	proper noun: ngon1 on1lou6 	3	2	
+235	前边	qiánbian	front	noun: cin4 bin1 	3	2	
+236	请问	qǐngwèn	May I ask	verb: cing2 man6 	3	2	
+237	天桥	tiānqiáo	flyover	noun: tin1 kiu4 	3	2	
+238	挺	tǐng	very	adverb: ting2 ting5	3	2	
+239	头	tóu	end	noun: tau4 	3	2	
+240	往	wǎng	to go to, towards, past, previous	verb: wong5 	3	2	
+241	洗	xǐ	to wash	verb: sai2 	3	2	
+242	希尔顿	"xī'ěrdùn"	Hilton	proper noun: deon6 duk6	3	2	
+243	哟	yō	oh (slight surprise)	interjection: jo1 	3	2	
+244	用品	yòngpǐn	articles for use	noun: jung6 ban2 	3	2	
+245	远	yuǎn	far	adjective: jyun5 	3	2	
+246	左	zuǒ	left	noun: zo2 	3	2	
+247	得	dé	used after a verb to add a complement	auxiliary: dak1 	4	2	
+248	懂	dǒng	to understand	verb: dung2 	4	2	
+249	翻译	fānyì	to translate, to interpret	verb: faan1 jik6 	4	2	
+250	法语	fǎyǔ	French (language)	noun: faat3 jyu5 	4	2	
+251	汉语	hànyǔ	Chinese (spoken language)	noun: hon3 jyu5 	4	2	
+252	话	huà	speech, spoken language	noun: waa2 waa6	4	2	
+253	讲	jiǎng	to speak, to explain, to negotiate	verb: gong2 	4	2	
+254	马上	mǎshàng	immediately	adverb: soeng5 soeng6	4	2	
+255	美国	měiguó	United States of America	proper noun: mei5 gwok3 	4	2	
+256	明白	míngbái	clear	adjective: ming4 baak6 	4	2	
+257	哪里	nǎlǐ	not at all, where	pronoun: naa1 naa4 naa5lei5 	4	2	
+258	难	nán	difficult	adjective: naan4 naan6	4	2	
+259	葡萄	pútáo	grapes	noun: pou4 tou4 	4	2	
+260	曲别针	qūbiézhēn	paper clip	noun: kuk1 bit6 zam1 	4	2	
+261	稍	shāo	slightly, just	adverb: saau2 	4	2	
+262	说	shuō	to speak, to say, to talk	verb: syut3 	4	2	
+263	提子	tí zi	to type of fruit	noun: dai2 tai4zi2 	4	2	
+264	听	tīng 2	to listen	verb: jan5 teng1 ting1 ting3	4	2	
+265	文件夹	wénjiàn jiā	file, document holder	noun: man4 man6gin6 gaap3 	4	2	
+266	英语	yīngyǔ	English	noun: jing1 jyu5 	4	2	
+267	有	yǒu	to have	verb: jau5 jau6	4	2	
+268	中文	zhōngwén	Chinese (written language)	noun: man4 man6	4	2	
+269	报名	bàomíng	to register for	verb: meng4 ming4	5	2	
+270	餐厅	cāntīng	dining room	noun: caan1 teng1 	5	2	
+271	参展	cānzhǎn	to attend an exhibition	verb: caam1 sam1zin2 	5	2	
+272	迟到	chídào	be late	verb: ci4 dou3 	5	2	
+273	出差	chūchāi	be on a business trip	verb: caa1 caai1 ci1	5	2	
+274	得	děi	should, must	verb: dak1 	5	2	
+275	电影	diànyǐng	film	noun: jeng2 jing2	5	2	
+276	饭	fàn	food, meal	noun: faan6 	5	2	
+277	方案	"fāng'àn"	plan	noun: ngon3 on3	5	2	
+278	分	fēn	minute, part	noun: fan1 fan6	5	2	
+279	该	gāi	must	verb: goi1 	5	2	
+280	号	hào	date, number	noun: hou6 	5	2	
+281	机场	jīchǎng	airport	noun: gei1 coeng4 	5	2	
+282	开始	kāishǐ	to begin, to commence, to start	verb: hoi1 ci2 	5	2	
+283	开演	kāiyǎn	to start (to perform)	verb: jin2 jin5	5	2	
+284	客人	kèrén	guest, visitor	noun: haak3 jan4 	5	2	
+285	快	kuài 1	hurry up	adverb: faai3 	5	2	
+286	来不及	láibují	cannot make it	: gap6 kap6	5	2	
+287	来得及	láidéjí	there is still time, not late	: gap6 kap6	5	2	
+288	旅行	lǚxíng	to tour	verb: haang4 hang4 hang6 hong4	5	2	
+289	拿出	ná chū	to put forward	verb: naa4 ceot1 	5	2	
+290	年	nián	year	noun: nin4 	5	2	
+291	让	ràng	to let, to allow, to permit	verb: joeng6 	5	2	
+292	日	rì	date, day, sun	noun: jat6 	5	2	
+293	上班	shàngbān	to go to work	verb: soeng5 soeng6baan1 	5	2	
+294	时间	shíjiān	time (a point in, when)	noun: si4 gaan1 	5	2	
+295	事情	shìqíng	thing, affair, matter, business	noun: si6 cing4 	5	2	
+296	通知	tōngzhī	to notify	verb: zi1 zi3	5	2	
+297	下班	xiàbān	to get off work	verb: haa5 haa6baan1 	5	2	
+298	已经	yǐjīng	already	adverb: ji5 ging1 	5	2	
+299	一刻	yīkè	a quarter of an hour	noun: haak1 hak1	5	2	
+300	以前	yǐqián	before, past	noun: ji5 jyu5cin4 	5	2	
+301	有关	yǒuguān	relevant	adjective: jau5 jau6gwaan1 	5	2	
+302	月	yuè	month	noun: jyut6 	5	2	
+303	早	zǎo	early, soon	adjective: zou2 	5	2	
+304	展销会	zhǎnxiāo huì	commodities fair	noun: wui2 wui4 wui6	5	2	
+305	至	zhì	up to, till	verb: zi3 	5	2	
+306	抓紧	zhuājǐn	"to make best use of one's time"	verb: aau1 zaa1 zaau2gan2 	5	2	
+307	准备	zhǔnbèi	to prepare	verb: zeon2 bei6 	5	2	
+308	百	bǎi 1	hundred	number: baak3 	6	2	
+309	包装	bāozhuāng	packing	noun: baau1 zong1 	6	2	
+310	产品	chǎnpǐn	product	noun: caan2 ban2 	6	2	
+311	低	dī	low	adjective: dai1 	6	2	
+312	高	gāo	high, tall, a surname	adjective: gou1 	6	2	
+313	贵	guì	expensive	adjective: gwai3 	6	2	
+314	价格	jiàgé	price	noun: gaai3 gaak3 	6	2	
+315	件	jiàn	piece, item (of furniture, luggage, clothing)	measure: gin6 	6	2	
+316	进	jìn	to import; to buy in	verb: zeon3 	6	2	
+317	斤	jīn	jin (half a kilogram)	measure: gan1 	6	2	
+318	近来	jìnlái	these days	noun: gan6 kan5loi4 	6	2	
+319	可是	kěshì	but	conjunction: hak1 ho2si6 	6	2	
+320	块	kuài 2	piece, slice, lump, chunk	measure: faai3 	6	2	
+321	老	lǎo	Old, regular	adjective: lou5 	6	2	
+322	嘛	ma 2	indicating that something is obvious	particle: maa3 maa4	6	2	
+323	卖	mài	to sell	verb: maai6 	6	2	
+324	每	měi 2	every	pronoun: mui5 	6	2	
+325	目录	mùlù	catalogue	noun: muk6 luk6 	6	2	
+326	便宜	piányí	cheap	adjective: bin6 pin4ji4 	6	2	
+327	漂亮	piàoliang	beautiful; pretty	adjective: piu1 piu3loeng6 	6	2	
+328	苹果	píngguǒ	apple	noun: gu2 gwo2	6	2	
+329	钱	qián	money	noun: cin2 cin4	6	2	
+330	少	shǎo	few, not many	adjective: siu2 siu3	6	2	
+331	收到	shōu dào	to receive, to obtain	verb: sau1 dou3 	6	2	
+332	套	tào	set	measure: tou3 	6	2	
+333	特意	tèyì	specially, intentionally	adverb: dak6 ji3 	6	2	
+334	香蕉	xiāngjiāo	banana	noun: hoeng1 ziu1 	6	2	
+335	样	yàng	(measure word) kind	measure: joeng6 	6	2	
+336	一点儿	yīdiǎn er	a little bit	noun: jat1 dim2 jan4 	6	2	
+337	衣服	yīfú	clothes	noun: ji1 ji3fuk6 	6	2	
+338	元	yuán	yuan (unit of Renmnibi)	noun: jyun4 	6	2	
+339	这些	zhèxiē	these	pronoun: ze5 se1 	6	2	
+340	种类	zhǒnglèi	kinds, variety	noun: cung4 zung2leoi6 	6	2	
+341	包间	bāojiān	private room (in a restaurant)	noun: baau1 gaan1 	7	2	
+342	包子	bāozi	steamed stuffed bun	noun: baau1 zi2 	7	2	
+343	菜	cài	dish	noun: coi3 	7	2	
+344	菜谱	càipǔ	menu, recipe	noun: coi3 pou2 	7	2	
+345	唱	chàng	to sing, to call, to cry, to chant	verb: coeng3 	7	2	
+346	炒	chǎo	to stir-fry	verb: caau2 	7	2	
+347	成都	chéngdū	Chengdu	proper noun: cing4 seng4 sing4dou1 	7	2	
+348	点	diǎn	"to order (dishes), drop, spot, o'clock"	verb: dim2 	7	2	
+349	端	duān	to carry, to hold with both hands	verb: dyun1 	7	2	
+350	歌	gē	song	noun: go1 	7	2	
+351	顾客	gùkè	customer	noun: gu3 haak3 	7	2	
+352	过来	guòlái	to come over	verb: gwo3 loi4 	7	2	
+353	果汁儿	guǒzhī er	fruit juice	noun: gu2 gwo2zap1 jan4 	7	2	
+354	哈尔滨	"hā'ěrbīn"	Harbin	proper noun: haa1 ji5 ban1 	7	2	
+355	汉字	hànzì	Chinese character	noun: hon3 zi6 	7	2	
+356	红	hóng	red	adjective: hung4 	7	2	
+357	鸡蛋	jīdàn	egg	noun: daan2 daan6	7	2	
+358	结账	jiézhàng	to pay for something	verb: git3 zoeng3 	7	2	
+359	酒	jiǔ	wine	noun: zau2 	7	2	
+360	卡拉OK	kǎlā OK	karaoke	noun: 	7	2	
+361	可乐	kělè	Coca-Cola	noun: lok6 ngok6	7	2	
+362	里边	lǐbian	inside	noun: lei5 bin1 	7	2	
+363	马	mǎ	surname Ma	proper noun: maa5 	7	2	
+364	面条	miàntiáo	noodles	noun: min6 tiu4 	7	2	
+365	米饭	mǐfàn	cooked rice	noun: mai5 faan6 	7	2	
+366	牛肉	niúròu	beef	noun: ngau4 juk6 	7	2	
+367	啤酒	píjiǔ	beer	noun: be1 zau2 	7	2	
+368	葡萄酒	pútáojiǔ	grape wine	noun: pou4 tou4 zau2 	7	2	
+369	沙拉	shālā	salad	noun: laa1 laai1 laap6	7	2	
+370	熟悉	shúxī	to familiarize	verb: suk6 sik1 	7	2	
+371	它	tā	it	pronoun: taa1 to1	7	2	
+372	完	wán	to finish	verb: jyun4 	7	2	
+373	先生	xiānshēng	sir, mister	noun: saang1 sang1	7	2	
+374	杨	yáng	surname Yang	proper noun: joeng4 	7	2	
+375	一共	yīgòng	altogether	adverb: gung1 gung6	7	2	
+376	饮料	yǐnliào	beverage	noun: liu2 liu6	7	2	
+377	预订	yùdìng	to book in advance	verb: ding3 ding6	7	2	
+378	支持	zhīchí	to support	verb: zi1 ci4 	7	2	
+379	忠实	zhōngshí	faithful	adjective: zung1 sat6 	7	2	
+380	主食	zhǔshí	staple food	noun: ji6 sik6 zi6	7	2	
+381	遍	biàn	(measure word) time	measure: bin3 pin3	8	2	
+382	存	cún	to deposit	verb: cyun4 	8	2	
+383	存款单	cúnkuǎn dān	pay-in slip	noun: cyun4 fun2 daan1 	8	2	
+384	存折	cúnzhé	deposit book	noun: cyun4 zit3 	8	2	
+385	单子	dānzi	slip	noun: daan1 zi2 	8	2	
+386	兑换单	duìhuàn dān	exchange slip	noun: deoi3 wun6 daan1 	8	2	
+387	换	huàn	to exchange	verb: wun6 	8	2	
+388	汇价	huìjià	exchange rate	noun: wui6 gaai3 	8	2	
+389	护照	hùzhào	passport	noun: wu6 ziu3 	8	2	
+390	卡	kǎ	card, to stop, to block	noun: kaa1 kaa2 kaat1	8	2	
+391	蓝	lán	blue	adjective: laam4 	8	2	
+392	美元	měiyuán	U.S. dollar	noun: mei5 jyun4 	8	2	
+393	密码	mìmǎ	secret code, PIN	noun: mat6 maa5 	8	2	
+394	欧元	ōuyuán	Euro	noun: au1 ngau1jyun4 	8	2	
+395	千	qiān	thousand	number: cin1 	8	2	
+396	墙	qiáng	wall	noun: coeng4 	8	2	
+397	起来	qǐlái	to begin, to be up	verb: hei2 loi4 	8	2	
+398	其他	qítā	other, rest	pronoun: gei1 kei4taa1 	8	2	
+399	取款单	qǔkuǎn dān	drawing-out slip	noun: ceoi2 fun2 daan1 	8	2	
+400	日元	rì yuán	Japanese yen	noun: jat6 jyun4 	8	2	
+401	十	shí	ten	number: sap6 	8	2	
+402	数	shù	to count, number, figure, amount, several	verb: sou2 sou3	8	2	
+403	刷	shuā	to swipe	verb: caat3 saat3	8	2	
+404	输入	shūrù	to type in	verb: syu1 jap6 	8	2	
+405	填	tián	to fill in	verb: tin4 	8	2	
+406	外币	wàibì	foreign currency	noun: ngoi6 oi6bai6 	8	2	
+407	五	wǔ	five	number: ng5 	8	2	
+408	英镑	yīngbàng	Pound Sterling	noun: bong2 bong6	8	2	
+409	支票	zhīpiào	check	noun: biu1 piu3	8	2	
+410	办公	bàngōng	to work in an office	verb: baan6 gung1 	9	2	
+411	半年	bànnián	six months	noun: bun3 nin4 	9	2	
+412	包括	bāokuò	to include	noun: baau1 kut3 	9	2	
+413	材料	cáiliào	material, data, stuff	noun: liu2 liu6	9	2	
+414	厨房	chúfáng	kitchen	noun: fong2 fong4	9	2	
+415	定金	dìngjīn	deposit	noun: deng6 ding6gam1 	9	2	
+416	多长	duō zhǎng	how long	: coeng4 zoeng2	9	2	
+417	多大	duōdà	how big	: do1 daai6 	9	2	
+418	房子	fángzi	house	noun: fong2 fong4zi2 	9	2	
+419	房租	fángzū	rent paid for a room/house	noun: fong2 fong4zou1 	9	2	
+420	够	gòu	enough	adverb: gau3 	9	2	
+421	会客室	huì kèshì	reception room	noun: wui2 wui4 wui6haak3 sat1 	9	2	
+422	会议室	huìyì shì	meeting room	noun: ji5 ji6sat1 	9	2	
+423	介绍	jièshào	to introduce	verb: gaai3 siu6 	9	2	
+424	居住	jūzhù	to live	verb: geoi1 zyu6 	9	2	
+425	客厅	kètīng	sitting room	noun: haak3 teng1 	9	2	
+426	空调	kòngtiáo	air conditioner	noun: diu6 tiu4	9	2	
+427	两	liǎng	two	number: loeng5 	9	2	
+428	平方米	píngfāng mǐ	square metre (long form)	measure: peng4 ping4fong1 mai5 	9	2	
+429	平米	píngmǐ	square metre (abbreviation)	measure: peng4 ping4mai5 	9	2	
+430	设备	shèbèi	equipment	noun: cit3 bei6 	9	2	
+431	水电费	shuǐdiàn fèi	charges for water and electricity	: seoi2 din6 fai3 	9	2	
+432	算	suàn	to calculate	verb: syun3 	9	2	
+433	网线	wǎngxiàn	net line	noun: mong5 sin3 	9	2	
+434	卫生间	wèishēngjiān	toilet	noun: saang1 sang1gaan1 	9	2	
+435	卧室	wòshì	bedroom	noun: ngo6 sat1 	9	2	
+436	预付	yùfù	to pay in advance	verb: jyu6 fu6 	9	2	
+437	至少	zhìshǎo	at least	adverb: siu2 siu3	9	2	
+438	租	zū	to rent	verb: zou1 	9	2	
+439	作	zuò 2	to be used as	verb: zok3 	9	2	
+440	左右	zuǒyòu	about	noun: zo2 jau6 	9	2	
+441	阿姨	āyí	auntie, baby care-taker	noun: aa2 aa3 aak3 o1ji4 	10	2	
+442	把	bǎ	used to shift the object ahead of the verb, which must be reduplicated or accompanied bty some other word or expression	preposition: baa2 	10	2	
+443	摆	bǎi 2	to put, to place, to arrange	verb: baai2 	10	2	
+444	布置	bùzhì	to fix up	verb: bou3 zi3 	10	2	
+445	擦	cā	to rub	verb: caat3 	10	2	
+446	东西	dōngxī	thing (referring to a person or animal), thing, stuff	noun: dung1 sai1 	10	2	
+447	放	fàng	to put, to release, to let go	verb: fong3 	10	2	
+448	费	fèi	charge, fee	noun: fai3 	10	2	
+449	干净	gānjìng	clean	adjective: zeng6 zing6	10	2	
+450	管理	guǎnlǐ	to manage	verb: gun2 lei5 	10	2	
+451	过	guò	used after a verb to indicate the completion of an action	auxiliary: gwo3 	10	2	
+452	孩子	háizi	kid	noun: haai4 hoi4zi2 	10	2	
+453	坏	huài	bad	adjective: pui1 pui4	10	2	
+454	开会	kāihuì	to attend a meeting	verb: wui2 wui4 wui6	10	2	
+455	挪	nuó	to remove	verb: no1 no4	10	2	
+456	收费	shōufèi	to collect fees	verb: sau1 fai3 	10	2	
+457	收拾	shōushí	to rearrange things in order	verb: sau1 sap6 	10	2	
+458	水龙头	shuǐlóngtóu	tap	noun: seoi2 lung4 tau4 	10	2	
+459	物业	wùyè	estate	noun: mat6 jip6 	10	2	
+460	屋子	wūzi	room, house	noun: nguk1 uk1zi2 	10	2	
+461	修理	xiūlǐ	to repair	verb: sau1 lei5 	10	2	
+462	脏	zàng	dirty	adjective: zong6 	10	2	
+463	整理	zhěnglǐ	to put in order	verb: zing2 lei5 	10	2	
+464	桌子	zhuō zi	table	noun: coek3 zoek3zi2 	10	2	
+465	吹	chuī	to dry with a dryer	verb: ceoi1 ceoi3	11	2	
+466	当然	dāngrán	of course	adverb: dong1 jin4 	11	2	
+467	短	duǎn	short	adjective: dyun2 	11	2	
+468	复杂	fùzá	complicated	adjective: fuk6 zaap6 	11	2	
+469	告诉	gàosù	to tell	verb: gou3 guk1sou3 	11	2	
+470	好看	hǎokàn	good looking	adjective: hon1 hon3	11	2	
+471	家	jiā	measure word for buildings traditionally run by families, home, family	measure: gaa1 gu1	11	2	
+472	剪	jiǎn 1	to cut with scissors	verb: zin2 	11	2	
+473	开张	kāizhāng	to open (of shops)	verb: hoi1 zoeng1 	11	2	
+474	理	lǐ 2	"to cut (one's hair)"	verb: lei5 	11	2	
+475	理发	lǐfǎ	to have a haircut	: lei5 faat3 	11	2	
+476	理发店	lǐfǎ diàn	"barber's shop"	noun: lei5 faat3 dim3 	11	2	
+477	秘密	mìmì	secret	noun: bei3 bit1mat6 	11	2	
+478	名牌	míngpái	famous brand	noun: meng4 ming4paai4 	11	2	
+479	那儿	"nà'er"	there	pronoun: aa6 naa5 naa6 no1 no4 no5jan4 	11	2	
+480	那么	nàme	so	pronoun: jiu1 mo1	11	2	
+481	陪	péi	to escort	verb: pui4 	11	2	
+482	热	rè	hot	adjective: jit6 	11	2	
+483	商务部	shāngwù bù	Commercial Department; Ministry of Commerce	noun: soeng1 mou6 bou6 	11	2	
+484	商业	shāngyè	commerce	noun: soeng1 jip6 	11	2	
+485	帅	shuài	smart	adjective: seoi3 	11	2	
+486	烫	tàng	to have a perm	verb: tong3 	11	2	
+487	头发	tóufǎ	hair (on the human head)	noun: tau4 faat3 	11	2	
+488	哇	wa	wah	onomatopoeia: waa1 	11	2	
+489	洗发水	xǐ fǎ shuǐ	shampoo	noun: sai2 faat3 seoi2 	11	2	
+490	洗头	xǐ tóu	"to wash one's hair"	verb: sai2 tau4 	11	2	
+491	西装	xīzhuāng	Western-style clothes	noun: sai1 zong1 	11	2	
+492	约会	yuēhuì	have an appointment/date	verb: wui2 wui4 wui6	11	2	
+493	长	zhǎng	long	adjective: coeng4 zoeng2	11	2	
+494	只	zhǐ 1	only	adverb: zek3 zi2	11	2	
+495	做	zuò 3	to do, to make, to cook, to prepare	verb: zou6 	11	2	
+496	病	bìng	to fall ill	verb: beng6 bing6	12	2	
+497	鼻子	bízi	nose	noun: bei6 zi2 	12	2	
+498	大夫	dàfū	doctor	noun: fu1 fu4	12	2	
+499	倒	dào	to pour	verb: dou2 dou3	12	2	
+500	打针	dǎzhēn	to inject	verb: daa1 daa2zam1 	12	2	
+501	度	dù	degree	measure: dok6 dou6	12	2	
+502	发烧	fāshāo	to run a fever	verb: faat3 siu1 	12	2	
+503	感冒	gǎnmào	to catch a cold	verb: mak6 mou6	12	2	
+504	后天	hòutiān	the day after tomorrow	noun: hau6 tin1 	12	2	
+505	回家	huí jiā	to return home	verb: gaa1 gu1	12	2	
+506	咳嗽	késòu	to cough	verb: sau2 sau3	12	2	
+507	量	liàng	to take; to measure, capacity, quantity, amount	verb: loeng4 loeng6	12	2	
+508	厉害	lìhài	serious	adjective: hoi6 hot3	12	2	
+509	难受	nánshòu	terrible sick	adjective: naan4 naan6sau6 	12	2	
+510	片	piàn	tablet	measure: pin3 	12	2	
+511	请假	qǐngjià	to ask for leave	: gaa2 gaa3	12	2	
+512	嗓子	sǎngzi	throat	noun: song1 song2zi2 	12	2	
+513	生病	shēngbìng	to be sick	: beng6 bing6	12	2	
+514	舒服	shūfú	comfortable	adjective: syu1 fuk6 	12	2	
+515	疼	téng	to have a pain	verb: tang4 tung3	12	2	
+516	体温	tǐwēn	temperature	noun: ban6 tai2wan1 	12	2	
+517	通	tōng	through	adjective: tung1 	12	2	
+518	休息	xiūxí	to take a rest	verb: jau1 sik1 	12	2	
+519	药	yào 2	medicine	noun: joek1 joek6	12	2	
+520	医院	yīyuàn	hospital	noun: jyun2 jyun6	12	2	
+521	张	zhāng	to open, to spread, to stretch, to set out, to display	verb: zoeng1 	12	2	
+522	嘴	zuǐ	mouth	noun: zeoi2 	12	2	
+523	办	bàn 2	to go through (formalities)	verb: baan6 	13	2	
+524	比较	bǐjiào	comparatively	adverb: bei2 bei6 pei4gaau3 	13	2	
+525	博览会	bólǎnhuì	fair	noun: wui2 wui4 wui6	13	2	
+526	参观	cānguān	to look around	verb: caam1 sam1gun1 	13	2	
+527	参加	cānjiā	to participate	verb: gaa1 gaa3	13	2	
+528	到期	dào qí	to expire	verb: gei1 kei4	13	2	
+529	法国	fàguó	France	proper noun: faat3 gwok3 	13	2	
+530	访问	fǎngwèn	to visit	verb: fong2 man6 	13	2	
+531	公安局	"gōng'ān jú"	public security bureau	noun: ngon1 on1guk6 	13	2	
+532	紧	jǐn	tight	adjective: gan2 	13	2	
+533	考察	kǎochá	to observe	verb: haau2 caat3 	13	2	
+534	签证	qiānzhèng	to get a passport visaed	verb: cim1 zing3 	13	2	
+535	使馆	shǐguǎn	embassy	noun: sai2 si2 si3gun2 	13	2	
+536	手续	shǒuxù	formalities	noun: sau2 zuk6 	13	2	
+537	信	xìn	letter, confidence, trust, faith	noun: seon3 	13	2	
+538	延期	yánqí	to extend	verb: gei1 kei4	13	2	
+539	邀请	yāoqǐng	to invite	verb: jiu1 cing2 	13	2	
+540	张	zhāng	piece, flat object (measure word)	measure: zoeng1 	13	2	
+541	证明	zhèngmíng	certificate	noun: zing3 ming4 	13	2	
+542	查	chá 2	to check, to investigate, to consult	verb: caa4 zaa1	14	2	
+543	赶不上	gǎnbushàng	be late for	: soeng5 soeng6	14	2	
+544	公路	gōnglù	highway	noun: gung1 lou6 	14	2	
+545	广州	guǎngzhōu	Guangzhou	proper noun: jim2 zau1 	14	2	
+546	贺卡	hèkǎ	congratulatory card	noun: kaa1 kaa2 kaat1	14	2	
+547	货	huò	goods	noun: fo3 	14	2	
+548	或者	huòzhě	or	conjunction: waak6 ze2 	14	2	
+549	寄	jì 1	to post	verb: gei3 	14	2	
+550	借	jiè	to borrow; to lend	verb: ze3 	14	2	
+551	季节	jìjié	season	noun: gwai3 zit3 	14	2	
+552	快递	kuàidì	to deliver fast	verb: faai3 dai6 	14	2	
+553	会计师	kuàijìshī	accounting office	noun: wui2 wui4 wui6gai3 si1 	14	2	
+554	取	qǔ	to get, to take	verb: ceoi2 	14	2	
+555	谁	shéi	who	pronoun: seoi4 	14	2	
+556	试	shì 3	to try	verb: si3 	14	2	
+557	收	shōu	to receive, to accept, to collect	verb: sau1 	14	2	
+558	收据	shōujù	receipt	noun: sau1 geoi1 	14	2	
+559	铁路	tiělù	railway	noun: tit3 lou6 	14	2	
+560	托运	tuōyùn	consign for shipment	verb: tok3 wan6 	14	2	
+561	销售	xiāoshòu	to sell	verb: siu1 sau6 	14	2	
+562	样品	yàngpǐn	sample	noun: joeng6 ban2 	14	2	
+563	邮费	yóufèi	postage	noun: jau4 fai3 	14	2	
+564	运输	yùnshū	to transport	verb: wan6 syu1 	14	2	
+565	正式	zhèngshì	formal	adjective: zeng3 zing1 zing3sik1 	14	2	
+566	插	chā	to insert	verb: caap3 	15	2	
+567	查验	cháyàn	to examine, to check, inspection	verb: caa4 zaa1jim6 	15	2	
+568	处长	chù zhǎng	head of a department	noun: coeng4 zoeng2	15	2	
+569	掉	diào	to lose, to drop	verb: deu6 diu6 zaau6	15	2	
+570	放行	fàngxíng	to let pass	verb: haang4 hang4 hang6 hong4	15	2	
+571	改天	gǎitiān	some day in the future	noun: goi2 tin1 	15	2	
+572	够不着	gòu bùzháo	to be unable to reach	verb: zau1 zau2 zoek3 zoek6	15	2	
+573	关	guān	surname Guan	proper noun: gwaan1 	15	2	
+574	捡	jiǎn 2	to pick up	verb: gim2 	15	2	
+575	卡	kǎ	to get stuck, card	verb: kaa1 kaa2 kaat1	15	2	
+576	可能	kěnéng	possibly	adverb: hak1 ho2nang4 	15	2	
+577	弄	nòng	to do; to make. to play with, to manage	verb: lung6 nung6	15	2	
+578	批	pī	batch	measure: pai1 	15	2	
+579	调料	tiáoliào	seasoning	noun: liu2 liu6	15	2	
+580	盐	yán	salt	noun: jim4 	15	2	
+581	又	yòu	again (past)	adverb: jau6 	15	2	
+582	着	zhe	aspect particle indicating action in progress	particle: zau1 zau2 zoek3 zoek6	15	2	
+583	纸	zhǐ 2	paper	noun: zi2 	15	2	
+584	本子	běn zi	notebook	noun: bun2 zi2 	16	2	
+585	笔	bǐ 2	pen	noun: bat1 	16	2	
+586	出	chū	to occur	verb: ceot1 	16	2	
+587	传真机	chuánzhēn jī	fax machine	noun: cyun4 zan1 gei1 	16	2	
+588	打卡	dǎkǎ	to punch attendance	verb: kaa1 kaa2 kaat1	16	2	
+589	打印机	dǎyìnjī	printer	noun: jan3 ngan3gei1 	16	2	
+590	复印	fùyìn	to print a copy	verb: jan3 ngan3	16	2	
+591	复印机	fùyìnjī	photocopier	noun: jan3 ngan3gei1 	16	2	
+592	工卡	gōng kǎ	working card for punching attendance	noun: kaa1 kaa2 kaat1	16	2	
+593	键盘	jiànpán	keyboard	noun: gin6 pun4 	16	2	
+594	胶带	jiāodài	sticky tape	noun: daai2 daai3	16	2	
+595	领	lǐng	to get, to receive, next	verb: ling5 	16	2	
+596	毛病	máobìng	problem, defect, shortcoming	noun: beng6 bing6	16	2	
+597	哦	ó	oh (slight doubt)	interjection: ngo4 o2 o4 o6	16	2	
+598	盘	pán	disk	noun: pun4 	16	2	
+599	铅笔	qiānbǐ	pencil	noun: jyun4 bat1 	16	2	
+600	使	shǐ	to use	verb: sai2 si2 si3	16	2	
+601	鼠标	shǔbiāo	mouse	noun: syu2 biu1 	16	2	
+602	涂改液	túgǎi yè	correction fluid	noun: jat6 jik6	16	2	
+603	文具	wénjù	stationary	noun: man4 man6geoi6 	16	2	
+604	问题	wèntí	problem, matter, question, issue	noun: man6 tai4 	16	2	
+605	橡皮	xiàngpí	rubber	noun: zoeng6 pei4 	16	2	
+606	椅子	yǐzi	chair	noun: ji1 ji2zi2 	16	2	
+607	圆珠笔	yuánzhūbǐ	ball point pen	noun: jyun4 zyu1 bat1 	16	2	
+608	枝	zhī	branch, stick, rod, pencil, long thin thing (measure word)	measure: kei4 zi1	16	2	
+609	安排	ānpái	to arrange	verb: ngon1 on1paai4 	17	2	
+610	报表	bàobiǎo	report form	noun: bou3 biu2 	17	2	
+611	方便	fāngbiàn	convenient	adjective: bin6 pin4	17	2	
+612	高	gāo	surname Gao	proper noun: gou1 	17	2	
+613	工商局	gōngshāng jú	industrial and commercial bureau	noun: gung1 soeng1 guk6 	17	2	
+614	广告	guǎnggào	advertisement	noun: gou3 guk1	17	2	
+615	核查	héchá	to check, to examine, to inspect	verb: caa4 zaa1	17	2	
+616	核对	héduì	to verify	verb: hat6 wat6deoi3 	17	2	
+617	加班	jiābān	to work overtime	verb: gaa1 gaa3baan1 	17	2	
+618	检验	jiǎnyàn	to examine, to test	verb: gim2 jim6 	17	2	
+619	认真	rènzhēn	careful	adjective: jing6 zan1 	17	2	
+620	日历	rìlì	diary	noun: jat6 lik6 	17	2	
+621	双方	shuāngfāng	both sides	noun: soeng1 fong1 	17	2	
+622	税	shuì	tax	noun: seoi3 	17	2	
+623	税务局	shuìwù jú	tax office	noun: seoi3 mou6 guk6 	17	2	
+624	通过	tōngguò	to pass through, to traverse	verb: tung1 gwo3 	17	2	
+625	卫生	wèishēng	hygeine, health	noun: saang1 sang1	17	2	
+626	卫生局	wèishēng jú	public health bureau	noun: saang1 sang1guk6 	17	2	
+627	约	yuē	to make an appointment with somebody	verb: joek3 	17	2	
+628	周	zhōu	week, circumference	noun: zau1 	17	2	
+629	转告	zhuǎngào	to pass on, to transmit, to communicate	verb: gou3 guk1	17	2	
+630	称呼	chēnghu	to call, to address	verb: cing1 cing3fu1 	18	2	
+631	单位	dānwèi	unit	noun: wai2 wai6	18	2	
+632	风景	fēngjǐng	scenery	noun: ging2 jing2	18	2	
+633	黄	huáng	surname Huang	proper noun: wong4 	18	2	
+634	叫	jiào	to call; to be called	verb: giu3 	18	2	
+635	决定	juédìng	to decide	verb: deng6 ding6	18	2	
+636	哪个	nǎge	which	pronoun: naa1 naa4 naa5go3 	18	2	
+637	特别	tèbié	especially, particularly	adverb: dak6 bit6 	18	2	
+638	玩儿	wán er	to play	verb: waan4 wun6jan4 	18	2	
+639	信件	xìnjiàn	letter, papers, printed matter	noun: seon3 gin6 	18	2	
+640	燕山	yànshān	Yan mountain range across north Hebei	proper noun: jin1 jin3saan1 	18	2	
+641	一块儿	yīkuài er	together, the same place	adverb: jat1 faai3 jan4 	18	2	
+642	打算	dǎsuàn	to plan	verb: daa1 daa2syun3 	19	2	
+643	打折	dǎzhé	to give a discount	verb: daa1 daa2zit3 	19	2	
+644	订	dìng	to book	verb: ding3 ding6	19	2	
+645	地址	dìzhǐ	address	noun: dei6 deng6zi2 	19	2	
+646	返程	fǎnchéng	return journey	noun: faan1 faan2cing4 	19	2	
+647	公务舱	gōngwù cāng	official class	noun: gung1 mou6 cong1 	19	2	
+648	航班	hángbān	flight	noun: hong4 baan1 	19	2	
+649	航空	hángkōng	airline	noun: hung1 hung3	19	2	
+650	记	jì 2	to take (a note); to remember	verb: gei3 	19	2	
+651	机票	jīpiào	airline ticket	noun: biu1 piu3	19	2	
+652	离开	líkāi	to leave	verb: lei4 sit3hoi1 	19	2	
+653	起飞	qǐfēi	to take off (of aircraft)	verb: hei2 fei1 	19	2	
+654	售票处	shòupiào chù	ticket office	noun: biu1 piu3cyu3 	19	2	
+655	太太	tàitài	wife	noun: taai3 taai3 	19	2	
+656	替	tì	for, to replace, to substitute	preposition: tai3 	19	2	
+657	问候	wènhòu	to extend greetings	verb: man6 hau6 	19	2	
+658	习惯	xíguàn	to get used to	verb: zaap6 gwaan3 	19	2	
+659	中午	zhōngwǔ	noon	noun: zung1 zung3ng5 	19	2	
+660	准时	zhǔnshí	on time	adjective: zeon2 si4 	19	2	
+661	爱	ài	to love	verb: ngoi3 oi3	20	2	
+662	爱好	àihào	to be fond of	verb: hou2 hou3	20	2	
+663	保龄球	bǎolíngqiú	tenpin bowling	noun: bou2 ling4 kau4 	20	2	
+664	比赛	bǐsài	to compete	verb: bei2 bei6 pei4coi3 	20	2	
+665	长安大戏院	"cháng'ān dà xìyuàn"	"Chang'an Grand Theatre"	proper noun: jyun2 jyun6	20	2	
+666	唱歌	chànggē	to sing a song	verb: coeng3 go1 	20	2	
+667	除了	chúle	except; besides	conjunction: ceoi4 cyu4liu5 	20	2	
+668	打球	dǎqiú	to play (of ball games)	verb: daa1 daa2kau4 	20	2	
+669	电视	diànshì	television	noun: din6 si6 	20	2	
+670	刚才	gāngcái	just now	adverb: gong1 coi4 	20	2	
+671	高尔夫	"gāo'ěrfū"	golf	noun: fu1 fu4	20	2	
+672	更	gèng	more, still more	adverb: ang1 gaang1 gang1 gang3	20	2	
+673	讲	jiǎng	to talk; to attach importance to	verb: gong2 	20	2	
+674	经常	jīngcháng	often	adverb: ging1 soeng4 	20	2	
+675	京剧	jīngjù	Beijing Opera	noun: ging1 kek6 	20	2	
+676	啦	la	abreviation of 了 and 啊	auxiliary: laa1 	20	2	
+677	平时	píngshí	usually	noun: peng4 ping4si4 	20	2	
+678	散步	sànbù	to go for a walk	verb: saan2 saan3bou6 	20	2	
+679	上网	shàngwǎng	be on the internet	: soeng5 soeng6mong5 	20	2	
+680	书	shū 1	book	noun: syu1 	20	2	
+681	输	shū 2	to lose, transport	verb: syu1 	20	2	
+682	说话	shuōhuà	to speak, to say, to talk, to chat, to gossip	verb: waa2 waa6	20	2	
+683	算数	suànshù	to count	verb: sou2 sou3	20	2	
+684	跳舞	tiàowǔ	to dance	verb: tiu3 mou5 	20	2	
+685	网球	wǎngqiú	tennis	noun: mong5 kau4 	20	2	
+686	晚上	wǎnshàng	evening	noun: soeng5 soeng6	20	2	
+687	信用	xìnyòng	trustworthiness	noun: seon3 jung6 	20	2	
+688	休闲	xiūxián	"to relax, at one's leisure"	verb: jau1 haan4 	20	2	
+689	学习	xuéxí	to study	verb: hok6 zaap6 	20	2	
+690	赢	yíng	to win	verb: jeng4 jing4	20	2	
+691	音乐	yīnyuè	music	noun: lok6 ngok6	20	2	
+692	音乐会	yīnyuè huì	concert	noun: wui2 wui4 wui6	20	2	
+693	游泳	yóuyǒng	to swim	verb: jau4 wing6 	20	2	
+694	运动	yùndòng	to do physical excercises	verb: wan6 dung6 	20	2	
+695	诸位	zhūwèi	everybody, ladies and gentlemen	pronoun: wai2 wai6	20	2	
+696	最	zuì	most	adverb: zeoi3 	20	2	

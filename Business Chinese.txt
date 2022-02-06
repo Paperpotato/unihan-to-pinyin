@@ -1,0 +1,696 @@
+1	大家	dàjiā	everyone, all	pronoun	2	1	
+2	李琳	lǐ lín	name of a person Li Lin	proper noun	2	1	
+3	麦克	màikè	Mike	proper noun	2	1	
+4	们	men	(suffix for plurality)		2	1	
+5	你	nǐ	you (singular)	pronoun	2	1	
+6	您	nín	you (a polite form)	pronoun	2	1	
+7	噢	ō	oh (sudden realization)	interjection	2	1	
+8	总	zǒng	general, always	noun	2	1	
+9	啊	a	ah	interjection	3	1	
+10	帮	bāng	to help	verb	3	1	
+11	不	bù 1	not, no	adverb	3	1	
+12	客气	kèqì	polite	adjective	3	1	
+13	忙	máng	busy	noun	3	1	
+14	谢谢	xièxiè	to thank, thanks	verb	3	1	
+15	一	yī	a, one	number	3	1	
+16	用	yòng	need, to use	verb	3	1	
+17	来	lái	to come	verb	4	1	
+18	刘力	liú lì	name of a person Liu Li	proper noun	4	1	
+19	是	shì 1	be, is, are, was, were	verb	4	1	
+20	我	wǒ	I, me	pronoun	4	1	
+21	小姐	xiǎojiě	miss	noun	4	1	
+22	新	xīn	new	adjective	4	1	
+23	新来的	xīn lái de	new comer		4	1	
+24	助理	zhùlǐ	assistant	noun	4	1	
+25	北京	běijīng	Beijing	proper noun	5	1	
+26	客户	kèhù	client, customer, user	noun	5	1	
+27	王光	wáng guāng	name of a person Wang Guang	proper noun	5	1	
+28	也	yě	also, too	adverb	5	1	
+29	在	zài 1	at, in, on	preposition	5	1	
+30	茶	chá 1	tea	noun	6	1	
+31	吃	chī	to eat, to take	verb	6	1	
+32	请	qǐng	please, to invite, to ask	verb	6	1	
+33	糖	táng	sugar, sweets	noun	6	1	
+34	这	zhè	this, now	pronoun	6	1	
+35	这个	zhège	this, this one		6	1	
+36	坐	zuò 1	to sit	verb	6	1	
+37	爱人	àirén	wife or husband	noun	7	1	
+38	办公室	bàngōngshì	office	noun	7	1	
+39	部	bù 2	section, department	noun	7	1	
+40	老板	lǎobǎn	boss, manager	noun	7	1	
+41	秘书	mìshū	secretary	noun	7	1	
+42	朋友	péngyǒu	friend	noun	7	1	
+43	签字	qiānzì	signature	noun	7	1	
+44	认识	rènshí	to know, to understand, to recognize	verb	7	1	
+45	同事	tóngshì	colleague	noun	7	1	
+46	位	wèi 1	(a measure word); person	measure	7	1	
+47	我们	wǒmen	we (not necessarily including second party)	pronoun	7	1	
+48	小	xiǎo	young, little	adjective	7	1	
+49	小白	xiǎo bái	(first name of a person)	proper noun	7	1	
+50	销售	xiāoshòu	to sell	verb	7	1	
+51	哎	āi	hey!	interjection	8	1	
+52	传真	chuánzhēn	fax	noun	8	1	
+53	可以	kěyǐ	can, able; to have permission to	verb	8	1	
+54	买	mǎi	to buy	verb	8	1	
+55	名片	míngpiàn	visiting card	noun	8	1	
+56	印	yìn	to print, to engrave	verb	8	1	
+57	一下	yīxià	for a while		8	1	
+58	总部	zǒngbù	head office, general headquarters	noun	8	1	
+59	抱歉	bàoqiàn	sorry	adjective	9	1	
+60	不要紧	bùyàojǐn	"It doesn't matter."	phrase	9	1	
+61	车	chē	car, bus	noun	9	1	
+62	了	le	user after a verb or verbal phrase to indicate the completion of a real or expected action or a change	auxiliary	9	1	
+63	里	lǐ 1	inside, in, surname	noun	9	1	
+64	没关系	méiguānxì	never mind		9	1	
+65	没事儿	méishì er	not serious, never mind		9	1	
+66	呢	ne	(a final interrogative particle); woolen cloth	particle	9	1	
+67	晚	wǎn	late	adjective	9	1	
+68	真	zhēn	really, awfully	adverb	9	1	
+69	资料	zīliào	material, resources, information	noun	9	1	
+70	吧	ba	(a modal particle)	particle	10	1	
+71	抽烟	chōuyān	to smoke	verb	10	1	
+72	吗	ma 1	(a final interrogative particle); to curse, to insult	particle	10	1	
+73	能	néng	can, to be able to	verb	10	1	
+74	软盘	ruǎnpán	software	noun	10	1	
+75	随便	suíbiàn	as you like, casual	adjective	10	1	
+76	提	tí	to propose, to lift, to raise, to mention, to put forward	verb	10	1	
+77	行	xíng	O.K., fine	verb	10	1	
+78	意见	yìjiàn	suggestion, comment, complaint	noun	10	1	
+79	帮忙	bāngmáng	help	verb	11	1	
+80	别	bié	do not	adverb	11	1	
+81	奶	nǎi	milk	noun	11	1	
+82	需要	xūyào	to need	verb	11	1	
+83	要	yào 1	to want, to need, to be going to	verb	11	1	
+84	来	lái	to let, to come, to arrive	verb	12	1	
+85	上	shàng	to go up, above, before	verb	12	1	
+86	下	xià	to go down, next	verb	12	1	
+87	先	xiān	first	adverb	12	1	
+88	自己	zìjǐ	oneself	pronoun	12	1	
+89	走	zǒu	to go, to walk	verb	12	1	
+90	棒	bàng	good	adjective	13	1	
+91	不错	bùcuò	not bad	adjective	13	1	
+92	美	měi 1	beautiful; America (abbreviation)	adjective	13	1	
+93	能干	nénggàn	capable	adjective	13	1	
+94	请客	qǐngkè	to stand treat		13	1	
+95	声音	shēngyīn	sounds	noun	13	1	
+96	喜欢	xǐhuān	to like	verb	13	1	
+97	行	xíng	fine, to walk, to go, to travel, to visit	adjective	13	1	
+98	想	xiǎng	to miss	verb	14	1	
+99	希望	xīwàng	to hope	verb	14	1	
+100	要	yào 1	to be going to, to want, to need	verb	14	1	
+101	再	zài 2	again (future)	adverb	14	1	
+102	再见	zàijiàn	good-bye	verb	14	1	
+103	早日	zǎorì	soon	adverb	14	1	
+104	保重	bǎozhòng	to take care on oneself	verb	15	1	
+105	留步	liúbù	"don't bother to come any further"	verb	15	1	
+106	旅途	lǚtú	trip	noun	15	1	
+107	哪里	nǎlǐ	not at all, where	pronoun	15	1	
+108	平安	"píng'ān"	safe	adjective	15	1	
+109	顺风	shùnfēng	to have a favourable wind	verb	15	1	
+110	送	sòng	to see off	verb	15	1	
+111	太	tài	too	adverb	15	1	
+112	一路	yīlù	all the way	noun	15	1	
+113	愉快	yúkuài	pleasant	adjective	15	1	
+114	照顾	zhàogù	to take care of, to show consideration for, to look after	verb	15	1	
+115	祝	zhù	to wish	verb	15	1	
+116	报告	bàogào	report	noun	16	1	
+117	打扰	dǎrǎo	to disturb, to bother	verb	16	1	
+118	麻烦	máfan	to trouble	verb	16	1	
+119	拿	ná	to take, to hold, to seize	verb	16	1	
+120	什么	shénme	what	pronoun	16	1	
+121	事	shì 2	thing, matter, job, responsibility	noun	16	1	
+122	一定	yī dìng	surely	adverb	16	1	
+123	马马虎虎	mǎmǎhǔhǔ	just so so	adjective	17	1	
+124	忙	máng	busy, help, to hurry	adjective	17	1	
+125	去	qù	to go	verb	17	1	
+126	生意	shēngyì	business	noun	17	1	
+127	身体	shēntǐ	body	noun	17	1	
+128	天气	tiānqì	weather	noun	17	1	
+129	下	xià	next, below	noun	17	1	
+130	星期	xīngqí	week, day of the week	noun	17	1	
+131	怎么样	zěnme yàng	in what manner (how)	pronoun	17	1	
+132	中国	zhōngguó	China	proper noun	17	1	
+133	最近	zuìjìn	recent	noun	17	1	
+134	班	bān	shift; class	noun	18	1	
+135	担心	dānxīn	to worry	verb	18	1	
+136	明天	míngtiān	tomorrow	noun	18	1	
+137	拍	pāi	to take (a photo)	verb	18	1	
+138	谦虚	qiānxū	modest	adjective	18	1	
+139	生气	shēngqì	to get angry		18	1	
+140	时候	shíhòu	time (an amount)	noun	18	1	
+141	忘	wàng	to forget	verb	18	1	
+142	效益	xiàoyì	benefit	noun	18	1	
+143	一直	yīzhí	continuously	adverb	18	1	
+144	着急	zhāojí	to worry about, worried, excited, anxious	verb	18	1	
+145	照片	zhàopiàn	photo	noun	18	1	
+146	正	zhèng	in process of	adverb	18	1	
+147	次	cì	(a measure word); time, occurence	measure	19	1	
+148	美好	měi hǎo	bright	adjective	19	1	
+149	提议	tíyì	to propose, to suggest; proposal, suggestion	verb	19	1	
+150	为	wèi 2	for, to do, to act	preposition	19	1	
+151	未来	wèilái	future	noun	19	1	
+152	洗尘	xǐchén	to give a dinner of welcome to a visitor from afar	verb	19	1	
+153	一起	yīqǐ	together, with	adverb	19	1	
+154	友谊	yǒuyì	friendship	noun	19	1	
+155	半	bàn 1	half	number	20	1	
+156	笔	bǐ 1	(a measure word); sum of money, financial account, debt	measure	20	1	
+157	成	chéng	to succeed	verb	20	1	
+158	快乐	kuàilè	happy	adjective	20	1	
+159	上海	shànghǎi	Shanghai	proper noun	20	1	
+160	圣诞节	shèngdàn jié	Christmas	proper noun	20	1	
+161	生日	shēngrì	birthday	noun	20	1	
+162	谈	tán	to chat, to talk	verb	20	1	
+163	香港	xiānggǎng	Hongkong	proper noun	20	1	
+164	下午	xiàwǔ	afternoon	noun	20	1	
+165	新年	xīnnián	New Year	noun	20	1	
+166	这么	zhème	such, so	adverb	20	1	
+167	祝贺	zhùhè	to congratulate	verb	20	1	
+168	长城	chángchéng	the Great Wall	proper noun	1	2	
+169	出去	chūqù	to go out	verb	1	2	
+170	错	cuò	wrong	adjective	1	2	
+171	打	dǎ	to dial	verb	1	2	
+172	打不通	dǎ bùtōng	unable to get through		1	2	
+173	点	diǎn	"o'clock, drop, spot, to order (dishes)"	noun	1	2	
+174	电话	diànhuà	telephone	noun	1	2	
+175	多少	duōshǎo	what (number)	pronoun	1	2	
+176	饭店	fàndiàn	hotel	noun	1	2	
+177	房间	fángjiān	room (not house)	noun	1	2	
+178	飞机	fēijī	aeroplane	noun	1	2	
+179	跟	gēn	with	preposition	1	2	
+180	贵友宾馆	guì yǒu bīnguǎn	Guiyou Hotel	proper noun	1	2	
+181	号码	hàomǎ	number	noun	1	2	
+182	急	jí	anxious	adjective	1	2	
+183	开	kāi	to open, to start, to turn on, to boil	verb	1	2	
+184	空	kōng	freedom	noun	1	2	
+185	联系	liánxì	to contact	verb	1	2	
+186	没	méi	"not, without, haven't"	adverb	1	2	
+187	上午	shàngwǔ	morning (between 8:00 and 12:00)	noun	1	2	
+188	手机	shǒujī	mobile phone	noun	1	2	
+189	厅	tīng 1	hall	noun	1	2	
+190	喂	wèi 3	hello	interjection	1	2	
+191	咱们	zánmen	we (including the first, second, and third parties)	noun	1	2	
+192	占线	zhànxiàn	engaged (of a telephone line)		1	2	
+193	找	zhǎo	to look for	verb	1	2	
+194	知道	zhīdào	to know, to realize	verb	1	2	
+195	中发宾馆	zhōng fā bīnguǎn	Zhongfa Hotel	proper noun	1	2	
+196	转	zhuǎn	to connect (a call)	verb	1	2	
+197	菜市场	cài shìchǎng	food market	noun	2	2	
+198	超市	chāoshì	supermarket	noun	2	2	
+199	打车	dǎchē	to take a taxi	verb	2	2	
+200	发票	fāpiào	invoice	noun	2	2	
+201	接	jiē	to meet	verb	2	2	
+202	酒吧	jiǔ bā	bar	noun	2	2	
+203	哪儿	"nǎ'er"	where	pronoun	2	2	
+204	然后	ránhòu	after	conjunction	2	2	
+205	师傅	shīfù	master	noun	2	2	
+206	停	tíng	to stop	verb	2	2	
+207	洗手间	xǐshǒujiān	water closet	noun	2	2	
+208	秀水街	xiùshuǐ jiē	Xiushui Street	proper noun	2	2	
+209	怎么	zěn me	how	pronoun	2	2	
+210	张	zhāng	surname Zhang	proper noun	2	2	
+211	这里	zhèlǐ	here	pronoun	2	2	
+212	坐车	zuòchē	to take a bus/car	verb	2	2	
+213	报纸	bàozhǐ	newspaper	noun	3	2	
+214	北	běi	north	noun	3	2	
+215	层	céng	floor	measure	3	2	
+216	朝	cháo	face	preposition	3	2	
+217	电器	diànqì	appliance	noun	3	2	
+218	电梯	diàntī	elevator	noun	3	2	
+219	地下	dìxià	basement	noun	3	2	
+220	东	dōng	east	noun	3	2	
+221	发	fā	hair, to send out, to issue, to emit, to develop	noun	3	2	
+222	份	fèn	copy	measure	3	2	
+223	分钟	fēnzhōng	minute (time)	noun	3	2	
+224	拐	guǎi	to turn	verb	3	2	
+225	后边	hòubian	behind	noun	3	2	
+226	化妆品	huàzhuāngpǐn	cosmetics	noun	3	2	
+227	几	jǐ	a few, which	number	3	2	
+228	京北大厦	jīng běi dàshà	Jingbei Mansion	proper noun	3	2	
+229	看	kàn	to look at; to see	verb	3	2	
+230	劳驾	láojià	Excuse me	verb	3	2	
+231	楼	lóu	building	noun	3	2	
+232	牌子	páizi	brand	noun	3	2	
+233	旁边	pángbiān	side	noun	3	2	
+234	平安路	"píng'ān lù"	"Ping'an Road"	proper noun	3	2	
+235	前边	qiánbian	front	noun	3	2	
+236	请问	qǐngwèn	May I ask	verb	3	2	
+237	天桥	tiānqiáo	flyover	noun	3	2	
+238	挺	tǐng	very	adverb	3	2	
+239	头	tóu	end	noun	3	2	
+240	往	wǎng	to go to, towards, past, previous	verb	3	2	
+241	洗	xǐ	to wash	verb	3	2	
+242	希尔顿	"xī'ěrdùn"	Hilton	proper noun	3	2	
+243	哟	yō	oh (slight surprise)	interjection	3	2	
+244	用品	yòngpǐn	articles for use	noun	3	2	
+245	远	yuǎn	far	adjective	3	2	
+246	左	zuǒ	left	noun	3	2	
+247	得	dé	used after a verb to add a complement	auxiliary	4	2	
+248	懂	dǒng	to understand	verb	4	2	
+249	翻译	fānyì	to translate, to interpret	verb	4	2	
+250	法语	fǎyǔ	French (language)	noun	4	2	
+251	汉语	hànyǔ	Chinese (spoken language)	noun	4	2	
+252	话	huà	speech, spoken language	noun	4	2	
+253	讲	jiǎng	to speak, to explain, to negotiate	verb	4	2	
+254	马上	mǎshàng	immediately	adverb	4	2	
+255	美国	měiguó	United States of America	proper noun	4	2	
+256	明白	míngbái	clear	adjective	4	2	
+257	哪里	nǎlǐ	not at all, where	pronoun	4	2	
+258	难	nán	difficult	adjective	4	2	
+259	葡萄	pútáo	grapes	noun	4	2	
+260	曲别针	qūbiézhēn	paper clip	noun	4	2	
+261	稍	shāo	slightly, just	adverb	4	2	
+262	说	shuō	to speak, to say, to talk	verb	4	2	
+263	提子	tí zi	to type of fruit	noun	4	2	
+264	听	tīng 2	to listen	verb	4	2	
+265	文件夹	wénjiàn jiā	file, document holder	noun	4	2	
+266	英语	yīngyǔ	English	noun	4	2	
+267	有	yǒu	to have	verb	4	2	
+268	中文	zhōngwén	Chinese (written language)	noun	4	2	
+269	报名	bàomíng	to register for	verb	5	2	
+270	餐厅	cāntīng	dining room	noun	5	2	
+271	参展	cānzhǎn	to attend an exhibition	verb	5	2	
+272	迟到	chídào	be late	verb	5	2	
+273	出差	chūchāi	be on a business trip	verb	5	2	
+274	得	děi	should, must	verb	5	2	
+275	电影	diànyǐng	film	noun	5	2	
+276	饭	fàn	food, meal	noun	5	2	
+277	方案	"fāng'àn"	plan	noun	5	2	
+278	分	fēn	minute, part	noun	5	2	
+279	该	gāi	must	verb	5	2	
+280	号	hào	date, number	noun	5	2	
+281	机场	jīchǎng	airport	noun	5	2	
+282	开始	kāishǐ	to begin, to commence, to start	verb	5	2	
+283	开演	kāiyǎn	to start (to perform)	verb	5	2	
+284	客人	kèrén	guest, visitor	noun	5	2	
+285	快	kuài 1	hurry up	adverb	5	2	
+286	来不及	láibují	cannot make it		5	2	
+287	来得及	láidéjí	there is still time, not late		5	2	
+288	旅行	lǚxíng	to tour	verb	5	2	
+289	拿出	ná chū	to put forward	verb	5	2	
+290	年	nián	year	noun	5	2	
+291	让	ràng	to let, to allow, to permit	verb	5	2	
+292	日	rì	date, day, sun	noun	5	2	
+293	上班	shàngbān	to go to work	verb	5	2	
+294	时间	shíjiān	time (a point in, when)	noun	5	2	
+295	事情	shìqíng	thing, affair, matter, business	noun	5	2	
+296	通知	tōngzhī	to notify	verb	5	2	
+297	下班	xiàbān	to get off work	verb	5	2	
+298	已经	yǐjīng	already	adverb	5	2	
+299	一刻	yīkè	a quarter of an hour	noun	5	2	
+300	以前	yǐqián	before, past	noun	5	2	
+301	有关	yǒuguān	relevant	adjective	5	2	
+302	月	yuè	month	noun	5	2	
+303	早	zǎo	early, soon	adjective	5	2	
+304	展销会	zhǎnxiāo huì	commodities fair	noun	5	2	
+305	至	zhì	up to, till	verb	5	2	
+306	抓紧	zhuājǐn	"to make best use of one's time"	verb	5	2	
+307	准备	zhǔnbèi	to prepare	verb	5	2	
+308	百	bǎi 1	hundred	number	6	2	
+309	包装	bāozhuāng	packing	noun	6	2	
+310	产品	chǎnpǐn	product	noun	6	2	
+311	低	dī	low	adjective	6	2	
+312	高	gāo	high, tall, a surname	adjective	6	2	
+313	贵	guì	expensive	adjective	6	2	
+314	价格	jiàgé	price	noun	6	2	
+315	件	jiàn	piece, item (of furniture, luggage, clothing)	measure	6	2	
+316	进	jìn	to import; to buy in	verb	6	2	
+317	斤	jīn	jin (half a kilogram)	measure	6	2	
+318	近来	jìnlái	these days	noun	6	2	
+319	可是	kěshì	but	conjunction	6	2	
+320	块	kuài 2	piece, slice, lump, chunk	measure	6	2	
+321	老	lǎo	Old, regular	adjective	6	2	
+322	嘛	ma 2	indicating that something is obvious	particle	6	2	
+323	卖	mài	to sell	verb	6	2	
+324	每	měi 2	every	pronoun	6	2	
+325	目录	mùlù	catalogue	noun	6	2	
+326	便宜	piányí	cheap	adjective	6	2	
+327	漂亮	piàoliang	beautiful; pretty	adjective	6	2	
+328	苹果	píngguǒ	apple	noun	6	2	
+329	钱	qián	money	noun	6	2	
+330	少	shǎo	few, not many	adjective	6	2	
+331	收到	shōu dào	to receive, to obtain	verb	6	2	
+332	套	tào	set	measure	6	2	
+333	特意	tèyì	specially, intentionally	adverb	6	2	
+334	香蕉	xiāngjiāo	banana	noun	6	2	
+335	样	yàng	(measure word) kind	measure	6	2	
+336	一点儿	yīdiǎn er	a little bit	noun	6	2	
+337	衣服	yīfú	clothes	noun	6	2	
+338	元	yuán	yuan (unit of Renmnibi)	noun	6	2	
+339	这些	zhèxiē	these	pronoun	6	2	
+340	种类	zhǒnglèi	kinds, variety	noun	6	2	
+341	包间	bāojiān	private room (in a restaurant)	noun	7	2	
+342	包子	bāozi	steamed stuffed bun	noun	7	2	
+343	菜	cài	dish	noun	7	2	
+344	菜谱	càipǔ	menu, recipe	noun	7	2	
+345	唱	chàng	to sing, to call, to cry, to chant	verb	7	2	
+346	炒	chǎo	to stir-fry	verb	7	2	
+347	成都	chéngdū	Chengdu	proper noun	7	2	
+348	点	diǎn	"to order (dishes), drop, spot, o'clock"	verb	7	2	
+349	端	duān	to carry, to hold with both hands	verb	7	2	
+350	歌	gē	song	noun	7	2	
+351	顾客	gùkè	customer	noun	7	2	
+352	过来	guòlái	to come over	verb	7	2	
+353	果汁儿	guǒzhī er	fruit juice	noun	7	2	
+354	哈尔滨	"hā'ěrbīn"	Harbin	proper noun	7	2	
+355	汉字	hànzì	Chinese character	noun	7	2	
+356	红	hóng	red	adjective	7	2	
+357	鸡蛋	jīdàn	egg	noun	7	2	
+358	结账	jiézhàng	to pay for something	verb	7	2	
+359	酒	jiǔ	wine	noun	7	2	
+360	卡拉OK	kǎlā OK	karaoke	noun	7	2	
+361	可乐	kělè	Coca-Cola	noun	7	2	
+362	里边	lǐbian	inside	noun	7	2	
+363	马	mǎ	surname Ma	proper noun	7	2	
+364	面条	miàntiáo	noodles	noun	7	2	
+365	米饭	mǐfàn	cooked rice	noun	7	2	
+366	牛肉	niúròu	beef	noun	7	2	
+367	啤酒	píjiǔ	beer	noun	7	2	
+368	葡萄酒	pútáojiǔ	grape wine	noun	7	2	
+369	沙拉	shālā	salad	noun	7	2	
+370	熟悉	shúxī	to familiarize	verb	7	2	
+371	它	tā	it	pronoun	7	2	
+372	完	wán	to finish	verb	7	2	
+373	先生	xiānshēng	sir, mister	noun	7	2	
+374	杨	yáng	surname Yang	proper noun	7	2	
+375	一共	yīgòng	altogether	adverb	7	2	
+376	饮料	yǐnliào	beverage	noun	7	2	
+377	预订	yùdìng	to book in advance	verb	7	2	
+378	支持	zhīchí	to support	verb	7	2	
+379	忠实	zhōngshí	faithful	adjective	7	2	
+380	主食	zhǔshí	staple food	noun	7	2	
+381	遍	biàn	(measure word) time	measure	8	2	
+382	存	cún	to deposit	verb	8	2	
+383	存款单	cúnkuǎn dān	pay-in slip	noun	8	2	
+384	存折	cúnzhé	deposit book	noun	8	2	
+385	单子	dānzi	slip	noun	8	2	
+386	兑换单	duìhuàn dān	exchange slip	noun	8	2	
+387	换	huàn	to exchange	verb	8	2	
+388	汇价	huìjià	exchange rate	noun	8	2	
+389	护照	hùzhào	passport	noun	8	2	
+390	卡	kǎ	card, to stop, to block	noun	8	2	
+391	蓝	lán	blue	adjective	8	2	
+392	美元	měiyuán	U.S. dollar	noun	8	2	
+393	密码	mìmǎ	secret code, PIN	noun	8	2	
+394	欧元	ōuyuán	Euro	noun	8	2	
+395	千	qiān	thousand	number	8	2	
+396	墙	qiáng	wall	noun	8	2	
+397	起来	qǐlái	to begin, to be up	verb	8	2	
+398	其他	qítā	other, rest	pronoun	8	2	
+399	取款单	qǔkuǎn dān	drawing-out slip	noun	8	2	
+400	日元	rì yuán	Japanese yen	noun	8	2	
+401	十	shí	ten	number	8	2	
+402	数	shù	to count, number, figure, amount, several	verb	8	2	
+403	刷	shuā	to swipe	verb	8	2	
+404	输入	shūrù	to type in	verb	8	2	
+405	填	tián	to fill in	verb	8	2	
+406	外币	wàibì	foreign currency	noun	8	2	
+407	五	wǔ	five	number	8	2	
+408	英镑	yīngbàng	Pound Sterling	noun	8	2	
+409	支票	zhīpiào	check	noun	8	2	
+410	办公	bàngōng	to work in an office	verb	9	2	
+411	半年	bànnián	six months	noun	9	2	
+412	包括	bāokuò	to include	noun	9	2	
+413	材料	cáiliào	material, data, stuff	noun	9	2	
+414	厨房	chúfáng	kitchen	noun	9	2	
+415	定金	dìngjīn	deposit	noun	9	2	
+416	多长	duō zhǎng	how long		9	2	
+417	多大	duōdà	how big		9	2	
+418	房子	fángzi	house	noun	9	2	
+419	房租	fángzū	rent paid for a room/house	noun	9	2	
+420	够	gòu	enough	adverb	9	2	
+421	会客室	huì kèshì	reception room	noun	9	2	
+422	会议室	huìyì shì	meeting room	noun	9	2	
+423	介绍	jièshào	to introduce	verb	9	2	
+424	居住	jūzhù	to live	verb	9	2	
+425	客厅	kètīng	sitting room	noun	9	2	
+426	空调	kòngtiáo	air conditioner	noun	9	2	
+427	两	liǎng	two	number	9	2	
+428	平方米	píngfāng mǐ	square metre (long form)	measure	9	2	
+429	平米	píngmǐ	square metre (abbreviation)	measure	9	2	
+430	设备	shèbèi	equipment	noun	9	2	
+431	水电费	shuǐdiàn fèi	charges for water and electricity		9	2	
+432	算	suàn	to calculate	verb	9	2	
+433	网线	wǎngxiàn	net line	noun	9	2	
+434	卫生间	wèishēngjiān	toilet	noun	9	2	
+435	卧室	wòshì	bedroom	noun	9	2	
+436	预付	yùfù	to pay in advance	verb	9	2	
+437	至少	zhìshǎo	at least	adverb	9	2	
+438	租	zū	to rent	verb	9	2	
+439	作	zuò 2	to be used as	verb	9	2	
+440	左右	zuǒyòu	about	noun	9	2	
+441	阿姨	āyí	auntie, baby care-taker	noun	10	2	
+442	把	bǎ	used to shift the object ahead of the verb, which must be reduplicated or accompanied bty some other word or expression	preposition	10	2	
+443	摆	bǎi 2	to put, to place, to arrange	verb	10	2	
+444	布置	bùzhì	to fix up	verb	10	2	
+445	擦	cā	to rub	verb	10	2	
+446	东西	dōngxī	thing (referring to a person or animal), thing, stuff	noun	10	2	
+447	放	fàng	to put, to release, to let go	verb	10	2	
+448	费	fèi	charge, fee	noun	10	2	
+449	干净	gānjìng	clean	adjective	10	2	
+450	管理	guǎnlǐ	to manage	verb	10	2	
+451	过	guò	used after a verb to indicate the completion of an action	auxiliary	10	2	
+452	孩子	háizi	kid	noun	10	2	
+453	坏	huài	bad	adjective	10	2	
+454	开会	kāihuì	to attend a meeting	verb	10	2	
+455	挪	nuó	to remove	verb	10	2	
+456	收费	shōufèi	to collect fees	verb	10	2	
+457	收拾	shōushí	to rearrange things in order	verb	10	2	
+458	水龙头	shuǐlóngtóu	tap	noun	10	2	
+459	物业	wùyè	estate	noun	10	2	
+460	屋子	wūzi	room, house	noun	10	2	
+461	修理	xiūlǐ	to repair	verb	10	2	
+462	脏	zàng	dirty	adjective	10	2	
+463	整理	zhěnglǐ	to put in order	verb	10	2	
+464	桌子	zhuō zi	table	noun	10	2	
+465	吹	chuī	to dry with a dryer	verb	11	2	
+466	当然	dāngrán	of course	adverb	11	2	
+467	短	duǎn	short	adjective	11	2	
+468	复杂	fùzá	complicated	adjective	11	2	
+469	告诉	gàosù	to tell	verb	11	2	
+470	好看	hǎokàn	good looking	adjective	11	2	
+471	家	jiā	measure word for buildings traditionally run by families, home, family	measure	11	2	
+472	剪	jiǎn 1	to cut with scissors	verb	11	2	
+473	开张	kāizhāng	to open (of shops)	verb	11	2	
+474	理	lǐ 2	"to cut (one's hair)"	verb	11	2	
+475	理发	lǐfǎ	to have a haircut		11	2	
+476	理发店	lǐfǎ diàn	"barber's shop"	noun	11	2	
+477	秘密	mìmì	secret	noun	11	2	
+478	名牌	míngpái	famous brand	noun	11	2	
+479	那儿	"nà'er"	there	pronoun	11	2	
+480	那么	nàme	so	pronoun	11	2	
+481	陪	péi	to escort	verb	11	2	
+482	热	rè	hot	adjective	11	2	
+483	商务部	shāngwù bù	Commercial Department; Ministry of Commerce	noun	11	2	
+484	商业	shāngyè	commerce	noun	11	2	
+485	帅	shuài	smart	adjective	11	2	
+486	烫	tàng	to have a perm	verb	11	2	
+487	头发	tóufǎ	hair (on the human head)	noun	11	2	
+488	哇	wa	wah	onomatopoeia	11	2	
+489	洗发水	xǐ fǎ shuǐ	shampoo	noun	11	2	
+490	洗头	xǐ tóu	"to wash one's hair"	verb	11	2	
+491	西装	xīzhuāng	Western-style clothes	noun	11	2	
+492	约会	yuēhuì	have an appointment/date	verb	11	2	
+493	长	zhǎng	long	adjective	11	2	
+494	只	zhǐ 1	only	adverb	11	2	
+495	做	zuò 3	to do, to make, to cook, to prepare	verb	11	2	
+496	病	bìng	to fall ill	verb	12	2	
+497	鼻子	bízi	nose	noun	12	2	
+498	大夫	dàfū	doctor	noun	12	2	
+499	倒	dào	to pour	verb	12	2	
+500	打针	dǎzhēn	to inject	verb	12	2	
+501	度	dù	degree	measure	12	2	
+502	发烧	fāshāo	to run a fever	verb	12	2	
+503	感冒	gǎnmào	to catch a cold	verb	12	2	
+504	后天	hòutiān	the day after tomorrow	noun	12	2	
+505	回家	huí jiā	to return home	verb	12	2	
+506	咳嗽	késòu	to cough	verb	12	2	
+507	量	liàng	to take; to measure, capacity, quantity, amount	verb	12	2	
+508	厉害	lìhài	serious	adjective	12	2	
+509	难受	nánshòu	terrible sick	adjective	12	2	
+510	片	piàn	tablet	measure	12	2	
+511	请假	qǐngjià	to ask for leave		12	2	
+512	嗓子	sǎngzi	throat	noun	12	2	
+513	生病	shēngbìng	to be sick		12	2	
+514	舒服	shūfú	comfortable	adjective	12	2	
+515	疼	téng	to have a pain	verb	12	2	
+516	体温	tǐwēn	temperature	noun	12	2	
+517	通	tōng	through	adjective	12	2	
+518	休息	xiūxí	to take a rest	verb	12	2	
+519	药	yào 2	medicine	noun	12	2	
+520	医院	yīyuàn	hospital	noun	12	2	
+521	张	zhāng	to open, to spread, to stretch, to set out, to display	verb	12	2	
+522	嘴	zuǐ	mouth	noun	12	2	
+523	办	bàn 2	to go through (formalities)	verb	13	2	
+524	比较	bǐjiào	comparatively	adverb	13	2	
+525	博览会	bólǎnhuì	fair	noun	13	2	
+526	参观	cānguān	to look around	verb	13	2	
+527	参加	cānjiā	to participate	verb	13	2	
+528	到期	dào qí	to expire	verb	13	2	
+529	法国	fàguó	France	proper noun	13	2	
+530	访问	fǎngwèn	to visit	verb	13	2	
+531	公安局	"gōng'ān jú"	public security bureau	noun	13	2	
+532	紧	jǐn	tight	adjective	13	2	
+533	考察	kǎochá	to observe	verb	13	2	
+534	签证	qiānzhèng	to get a passport visaed	verb	13	2	
+535	使馆	shǐguǎn	embassy	noun	13	2	
+536	手续	shǒuxù	formalities	noun	13	2	
+537	信	xìn	letter, confidence, trust, faith	noun	13	2	
+538	延期	yánqí	to extend	verb	13	2	
+539	邀请	yāoqǐng	to invite	verb	13	2	
+540	张	zhāng	piece, flat object (measure word)	measure	13	2	
+541	证明	zhèngmíng	certificate	noun	13	2	
+542	查	chá 2	to check, to investigate, to consult	verb	14	2	
+543	赶不上	gǎnbushàng	be late for		14	2	
+544	公路	gōnglù	highway	noun	14	2	
+545	广州	guǎngzhōu	Guangzhou	proper noun	14	2	
+546	贺卡	hèkǎ	congratulatory card	noun	14	2	
+547	货	huò	goods	noun	14	2	
+548	或者	huòzhě	or	conjunction	14	2	
+549	寄	jì 1	to post	verb	14	2	
+550	借	jiè	to borrow; to lend	verb	14	2	
+551	季节	jìjié	season	noun	14	2	
+552	快递	kuàidì	to deliver fast	verb	14	2	
+553	会计师	kuàijìshī	accounting office	noun	14	2	
+554	取	qǔ	to get, to take	verb	14	2	
+555	谁	shéi	who	pronoun	14	2	
+556	试	shì 3	to try	verb	14	2	
+557	收	shōu	to receive, to accept, to collect	verb	14	2	
+558	收据	shōujù	receipt	noun	14	2	
+559	铁路	tiělù	railway	noun	14	2	
+560	托运	tuōyùn	consign for shipment	verb	14	2	
+561	销售	xiāoshòu	to sell	verb	14	2	
+562	样品	yàngpǐn	sample	noun	14	2	
+563	邮费	yóufèi	postage	noun	14	2	
+564	运输	yùnshū	to transport	verb	14	2	
+565	正式	zhèngshì	formal	adjective	14	2	
+566	插	chā	to insert	verb	15	2	
+567	查验	cháyàn	to examine, to check, inspection	verb	15	2	
+568	处长	chù zhǎng	head of a department	noun	15	2	
+569	掉	diào	to lose, to drop	verb	15	2	
+570	放行	fàngxíng	to let pass	verb	15	2	
+571	改天	gǎitiān	some day in the future	noun	15	2	
+572	够不着	gòu bùzháo	to be unable to reach	verb	15	2	
+573	关	guān	surname Guan	proper noun	15	2	
+574	捡	jiǎn 2	to pick up	verb	15	2	
+575	卡	kǎ	to get stuck, card	verb	15	2	
+576	可能	kěnéng	possibly	adverb	15	2	
+577	弄	nòng	to do; to make. to play with, to manage	verb	15	2	
+578	批	pī	batch	measure	15	2	
+579	调料	tiáoliào	seasoning	noun	15	2	
+580	盐	yán	salt	noun	15	2	
+581	又	yòu	again (past)	adverb	15	2	
+582	着	zhe	aspect particle indicating action in progress	particle	15	2	
+583	纸	zhǐ 2	paper	noun	15	2	
+584	本子	běn zi	notebook	noun	16	2	
+585	笔	bǐ 2	pen	noun	16	2	
+586	出	chū	to occur	verb	16	2	
+587	传真机	chuánzhēn jī	fax machine	noun	16	2	
+588	打卡	dǎkǎ	to punch attendance	verb	16	2	
+589	打印机	dǎyìnjī	printer	noun	16	2	
+590	复印	fùyìn	to print a copy	verb	16	2	
+591	复印机	fùyìnjī	photocopier	noun	16	2	
+592	工卡	gōng kǎ	working card for punching attendance	noun	16	2	
+593	键盘	jiànpán	keyboard	noun	16	2	
+594	胶带	jiāodài	sticky tape	noun	16	2	
+595	领	lǐng	to get, to receive, next	verb	16	2	
+596	毛病	máobìng	problem, defect, shortcoming	noun	16	2	
+597	哦	ó	oh (slight doubt)	interjection	16	2	
+598	盘	pán	disk	noun	16	2	
+599	铅笔	qiānbǐ	pencil	noun	16	2	
+600	使	shǐ	to use	verb	16	2	
+601	鼠标	shǔbiāo	mouse	noun	16	2	
+602	涂改液	túgǎi yè	correction fluid	noun	16	2	
+603	文具	wénjù	stationary	noun	16	2	
+604	问题	wèntí	problem, matter, question, issue	noun	16	2	
+605	橡皮	xiàngpí	rubber	noun	16	2	
+606	椅子	yǐzi	chair	noun	16	2	
+607	圆珠笔	yuánzhūbǐ	ball point pen	noun	16	2	
+608	枝	zhī	branch, stick, rod, pencil, long thin thing (measure word)	measure	16	2	
+609	安排	ānpái	to arrange	verb	17	2	
+610	报表	bàobiǎo	report form	noun	17	2	
+611	方便	fāngbiàn	convenient	adjective	17	2	
+612	高	gāo	surname Gao	proper noun	17	2	
+613	工商局	gōngshāng jú	industrial and commercial bureau	noun	17	2	
+614	广告	guǎnggào	advertisement	noun	17	2	
+615	核查	héchá	to check, to examine, to inspect	verb	17	2	
+616	核对	héduì	to verify	verb	17	2	
+617	加班	jiābān	to work overtime	verb	17	2	
+618	检验	jiǎnyàn	to examine, to test	verb	17	2	
+619	认真	rènzhēn	careful	adjective	17	2	
+620	日历	rìlì	diary	noun	17	2	
+621	双方	shuāngfāng	both sides	noun	17	2	
+622	税	shuì	tax	noun	17	2	
+623	税务局	shuìwù jú	tax office	noun	17	2	
+624	通过	tōngguò	to pass through, to traverse	verb	17	2	
+625	卫生	wèishēng	hygeine, health	noun	17	2	
+626	卫生局	wèishēng jú	public health bureau	noun	17	2	
+627	约	yuē	to make an appointment with somebody	verb	17	2	
+628	周	zhōu	week, circumference	noun	17	2	
+629	转告	zhuǎngào	to pass on, to transmit, to communicate	verb	17	2	
+630	称呼	chēnghu	to call, to address	verb	18	2	
+631	单位	dānwèi	unit	noun	18	2	
+632	风景	fēngjǐng	scenery	noun	18	2	
+633	黄	huáng	surname Huang	proper noun	18	2	
+634	叫	jiào	to call; to be called	verb	18	2	
+635	决定	juédìng	to decide	verb	18	2	
+636	哪个	nǎge	which	pronoun	18	2	
+637	特别	tèbié	especially, particularly	adverb	18	2	
+638	玩儿	wán er	to play	verb	18	2	
+639	信件	xìnjiàn	letter, papers, printed matter	noun	18	2	
+640	燕山	yànshān	Yan mountain range across north Hebei	proper noun	18	2	
+641	一块儿	yīkuài er	together, the same place	adverb	18	2	
+642	打算	dǎsuàn	to plan	verb	19	2	
+643	打折	dǎzhé	to give a discount	verb	19	2	
+644	订	dìng	to book	verb	19	2	
+645	地址	dìzhǐ	address	noun	19	2	
+646	返程	fǎnchéng	return journey	noun	19	2	
+647	公务舱	gōngwù cāng	official class	noun	19	2	
+648	航班	hángbān	flight	noun	19	2	
+649	航空	hángkōng	airline	noun	19	2	
+650	记	jì 2	to take (a note); to remember	verb	19	2	
+651	机票	jīpiào	airline ticket	noun	19	2	
+652	离开	líkāi	to leave	verb	19	2	
+653	起飞	qǐfēi	to take off (of aircraft)	verb	19	2	
+654	售票处	shòupiào chù	ticket office	noun	19	2	
+655	太太	tàitài	wife	noun	19	2	
+656	替	tì	for, to replace, to substitute	preposition	19	2	
+657	问候	wènhòu	to extend greetings	verb	19	2	
+658	习惯	xíguàn	to get used to	verb	19	2	
+659	中午	zhōngwǔ	noon	noun	19	2	
+660	准时	zhǔnshí	on time	adjective	19	2	
+661	爱	ài	to love	verb	20	2	
+662	爱好	àihào	to be fond of	verb	20	2	
+663	保龄球	bǎolíngqiú	tenpin bowling	noun	20	2	
+664	比赛	bǐsài	to compete	verb	20	2	
+665	长安大戏院	"cháng'ān dà xìyuàn"	"Chang'an Grand Theatre"	proper noun	20	2	
+666	唱歌	chànggē	to sing a song	verb	20	2	
+667	除了	chúle	except; besides	conjunction	20	2	
+668	打球	dǎqiú	to play (of ball games)	verb	20	2	
+669	电视	diànshì	television	noun	20	2	
+670	刚才	gāngcái	just now	adverb	20	2	
+671	高尔夫	"gāo'ěrfū"	golf	noun	20	2	
+672	更	gèng	more, still more	adverb	20	2	
+673	讲	jiǎng	to talk; to attach importance to	verb	20	2	
+674	经常	jīngcháng	often	adverb	20	2	
+675	京剧	jīngjù	Beijing Opera	noun	20	2	
+676	啦	la	abreviation of 了 and 啊	auxiliary	20	2	
+677	平时	píngshí	usually	noun	20	2	
+678	散步	sànbù	to go for a walk	verb	20	2	
+679	上网	shàngwǎng	be on the internet		20	2	
+680	书	shū 1	book	noun	20	2	
+681	输	shū 2	to lose, transport	verb	20	2	
+682	说话	shuōhuà	to speak, to say, to talk, to chat, to gossip	verb	20	2	
+683	算数	suànshù	to count	verb	20	2	
+684	跳舞	tiàowǔ	to dance	verb	20	2	
+685	网球	wǎngqiú	tennis	noun	20	2	
+686	晚上	wǎnshàng	evening	noun	20	2	
+687	信用	xìnyòng	trustworthiness	noun	20	2	
+688	休闲	xiūxián	"to relax, at one's leisure"	verb	20	2	
+689	学习	xuéxí	to study	verb	20	2	
+690	赢	yíng	to win	verb	20	2	
+691	音乐	yīnyuè	music	noun	20	2	
+692	音乐会	yīnyuè huì	concert	noun	20	2	
+693	游泳	yóuyǒng	to swim	verb	20	2	
+694	运动	yùndòng	to do physical excercises	verb	20	2	
+695	诸位	zhūwèi	everybody, ladies and gentlemen	pronoun	20	2	
+696	最	zuì	most	adverb	20	2	
